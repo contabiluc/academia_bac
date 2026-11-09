@@ -21,5 +21,5 @@ npm run dev
 Fără Firebase, progresul se salvează local în browser. Cu Firebase, se sincronizează în `users/{uid}/data/progress`.
 
 ## De făcut
-- Portarea modulelor avansate din `legacy/` (eseuri, simulare, module pe etape, infografice)
+- Optimizare: code-splitting pentru datele de conținut
 - Roluri elev/profesor, evaluare eseuri cu AI, recomandări adaptive

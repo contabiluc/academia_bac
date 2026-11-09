@@ -6,6 +6,7 @@ import type { Profile, TestResult } from '@/types';
 export default function Progress() {
   const [done] = useStored<string[]>(KEYS.done, []);
   const [tests] = useStored<TestResult[]>(KEYS.tests, []);
+  const [essays] = useStored<number>(KEYS.essayCount, 0);
   const [profile] = useStored<Profile | null>(KEYS.profile, null);
 
   const avg = tests.length
@@ -19,6 +20,7 @@ export default function Progress() {
         <div className="stat"><strong>{done.length}/{WORKS.length}</strong>opere parcurse</div>
         <div className="stat"><strong>{tests.length}</strong>teste rezolvate</div>
         <div className="stat"><strong>{avg}%</strong>medie teste</div>
+        <div className="stat"><strong>{essays}</strong>eseuri finalizate</div>
         <div className="stat"><strong>{profile?.goal ?? '—'}</strong>notă țintă</div>
       </div>
       <h2>Ultimele teste</h2>

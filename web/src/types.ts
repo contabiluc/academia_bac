@@ -18,6 +18,18 @@ export interface Question {
   explanation: string;
 }
 
+export interface LessonModule {
+  icon: string;
+  title: string;
+  html: string;
+}
+
+export interface Infographic {
+  title: string;
+  subtitle: string;
+  src: string;
+}
+
 export interface Profile {
   name: string;
   goal: string;

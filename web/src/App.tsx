@@ -5,11 +5,17 @@ import LessonDetail from '@/pages/LessonDetail';
 import Tests from '@/pages/Tests';
 import Progress from '@/pages/Progress';
 import Account from '@/pages/Account';
+import Essays from '@/pages/Essays';
+import Simulation from '@/pages/Simulation';
+import Infographics from '@/pages/Infographics';
 
 const NAV: [string, string][] = [
   ['/', 'Acasă'],
   ['/lectii', 'Lecții'],
   ['/teste', 'Teste'],
+  ['/simulare', 'Simulare'],
+  ['/eseuri', 'Eseuri'],
+  ['/infografice', 'Infografice'],
   ['/progres', 'Progres'],
   ['/cont', 'Cont'],
 ];
@@ -31,6 +37,9 @@ export default function App() {
           <Route path="/lectii" element={<Lessons />} />
           <Route path="/lectii/:id" element={<LessonDetail />} />
           <Route path="/teste" element={<Tests />} />
+          <Route path="/simulare" element={<Simulation />} />
+          <Route path="/eseuri" element={<Essays />} />
+          <Route path="/infografice" element={<Infographics />} />
           <Route path="/progres" element={<Progress />} />
           <Route path="/cont" element={<Account />} />
           <Route path="*" element={<p>Pagina nu există.</p>} />

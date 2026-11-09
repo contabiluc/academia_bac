@@ -7,14 +7,19 @@ export const KEYS = {
   profile: 'abProfile',
   done: 'abDone',
   tests: 'abTests',
+  essay: 'abEssay',
+  essayCount: 'abEssayCount',
+  sim: 'abSim',
 } as const;
 
 export function read<T>(key: string, fallback: T): T {
+  const raw = localStorage.getItem(key);
+  if (raw === null) return fallback;
   try {
-    const raw = localStorage.getItem(key);
-    return raw === null ? fallback : (JSON.parse(raw) as T);
+    return JSON.parse(raw) as T;
   } catch {
-    return fallback;
+    // Prototipul vechi salva textele ca șiruri simple, fără JSON.
+    return (typeof fallback === 'string' ? raw : fallback) as T;
   }
 }
 

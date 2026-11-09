@@ -38,3 +38,21 @@ label input, label select { display: block; width: 100%; margin-top: 4px; }
 .option.right { background: #dcfce7; border-color: var(--ok); }
 .option.wrong { background: #fee2e2; border-color: var(--bad); }
 .list { padding-left: 18px; line-height: 1.9; }
+.tabs { display: flex; gap: 6px; flex-wrap: wrap; margin: 14px 0; }
+.tabs button { padding: 8px 14px; border: 1px solid var(--line); background: #fff; border-radius: 99px; font: inherit; font-weight: 600; cursor: pointer; color: var(--muted); }
+.tabs button.active { background: var(--blue); color: #fff; border-color: var(--blue); }
+.accordion { width: 100%; display: flex; justify-content: space-between; background: none; border: 0; font: inherit; font-weight: 700; font-size: 1.05rem; cursor: pointer; padding: 0; color: var(--navy); text-align: left; }
+.prose { line-height: 1.7; margin-top: 10px; }
+.prose h4 { color: var(--blue); margin: 14px 0 6px; }
+.infographic { width: 100%; height: auto; border-radius: 12px; border: 1px solid var(--line); }
+.reader { font-family: Georgia, 'Times New Roman', serif; line-height: 1.85; }
+.reader.compact { font-size: .92rem; } .reader.large { font-size: 1.2rem; }
+.reader p { text-align: justify; }
+.layout { display: grid; grid-template-columns: 280px 1fr; gap: 14px; align-items: start; }
+@media (max-width: 760px) { .layout { grid-template-columns: 1fr; } }
+textarea { width: 100%; padding: 12px; border: 1px solid var(--line); border-radius: 12px; font: inherit; resize: vertical; }
+.check { display: flex; align-items: center; gap: 8px; font-weight: 400; margin: 8px 0; }
+.check input { width: auto; margin: 0; }
+.bar { height: 8px; background: #eef0fa; border-radius: 99px; overflow: hidden; margin: 12px 0; }
+.bar i { display: block; height: 100%; background: linear-gradient(90deg, #8b5cf6, #3b82f6, #14b8a6); transition: width .2s; }
+.timer { font-variant-numeric: tabular-nums; font-size: 1.6rem; font-weight: 800; color: var(--blue); }
