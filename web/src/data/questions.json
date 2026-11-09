@@ -1,0 +1,2210 @@
+[
+ {
+  "work": "Luceafărul",
+  "q": "Care asociere este corectă pentru opera «Luceafărul»?",
+  "options": [
+   "Ioan Slavici — Poezie neomodernistă",
+   "Ion Pillat — Artă poetică modernistă",
+   "Mihai Eminescu — Poem romantic",
+   "Lucian Blaga — Roman tradițional"
+  ],
+  "answer": 2,
+  "explanation": "«Luceafărul» este scrisă de Mihai Eminescu și se încadrează ca poem romantic."
+ },
+ {
+  "work": "Luceafărul",
+  "q": "Care formulare exprimă cel mai precis tema operei «Luceafărul»?",
+  "options": [
+   "Degradarea morală provocată de dorința de îmbogățire.",
+   "Condiția geniului și incompatibilitatea dintre absolut și lumea comună.",
+   "Iubirea ca experiență transformatoare a ființei și a percepției.",
+   "Singurătatea, căutarea libertății și a sensului existenței."
+  ],
+  "answer": 1,
+  "explanation": "Tema centrală este: Condiția geniului și incompatibilitatea dintre absolut și lumea comună."
+ },
+ {
+  "work": "Luceafărul",
+  "q": "Ce element de compoziție este relevant pentru analiza operei «Luceafărul»?",
+  "options": [
+   "Patru tablouri, alternanța planului cosmic cu cel terestru, antiteză, motive romantice.",
+   "Enumerarea datelor biografice ale autorului, fără legătură cu textul.",
+   "Povestirea integrală a conținutului, fără interpretare.",
+   "Înlocuirea analizei cu o opinie personală neargumentată."
+  ],
+  "answer": 0,
+  "explanation": "Analiza trebuie să valorifice elementele indicate de construcția textului: Patru tablouri, alternanța planului cosmic cu cel terestru, antiteză, motive romantice."
+ },
+ {
+  "work": "Luceafărul",
+  "q": "Care variantă descrie corect relația dintre temă și secvențele analizate?",
+  "options": [
+   "Tema se menționează numai în concluzie.",
+   "Secvențele se rezumă, fără explicarea semnificației.",
+   "Tema și secvențele sunt componente independente.",
+   "Secvențele trebuie interpretate ca dovezi ale temei, nu doar repovestite."
+  ],
+  "answer": 3,
+  "explanation": "Într-un răspuns solid, fiecare secvență este contextualizată și legată explicit de temă."
+ },
+ {
+  "work": "Luceafărul",
+  "q": "Ce formulare indică o analiză literară mai riguroasă?",
+  "options": [
+   "Folosirea unor aprecieri generale, fără argumente.",
+   "Identificarea procedeului, exemplificarea și explicarea efectului său.",
+   "Enumerarea procedeelor fără exemple.",
+   "Redarea pe larg a acțiunii."
+  ],
+  "answer": 1,
+  "explanation": "Analiza completă unește observația, exemplul și efectul produs în text."
+ },
+ {
+  "work": "Luceafărul",
+  "q": "Care este cea mai potrivită funcție a concluziei?",
+  "options": [
+   "Repetă integral introducerea.",
+   "Prezintă biografia completă a autorului.",
+   "Sintetizează demonstrația și reconfirmă încadrarea, fără idei noi.",
+   "Introduce o secvență care nu a fost analizată."
+  ],
+  "answer": 2,
+  "explanation": "Concluzia închide demonstrația și recuperează ideile esențiale."
+ },
+ {
+  "work": "Luceafărul",
+  "q": "Care este centrul unei analize adecvate a textului liric?",
+  "options": [
+   "Caracterizarea unor personaje principale.",
+   "Identificarea unui narator omniscient.",
+   "Relația dintre ideile poetice și mijloacele artistice prin care sunt exprimate.",
+   "Rezumatul unei acțiuni."
+  ],
+  "answer": 2,
+  "explanation": "Poezia se analizează prin idei poetice, imagini, simboluri, figuri de stil și organizarea discursului liric."
+ },
+ {
+  "work": "Luceafărul",
+  "q": "Cum se comentează corect o imagine poetică?",
+  "options": [
+   "Se transcrie imaginea fără interpretare.",
+   "Se înlocuiește cu un rezumat.",
+   "Se analizează ca indicație scenică.",
+   "Se identifică imaginea, se explică procedeul și se leagă de ideea poetică."
+  ],
+  "answer": 3,
+  "explanation": "Comentariul trebuie să arate contribuția imaginii la sensul și atmosfera poeziei."
+ },
+ {
+  "work": "Povestea lui Harap-Alb",
+  "q": "Care asociere este corectă pentru opera «Povestea lui Harap-Alb»?",
+  "options": [
+   "Ion Pillat — Dramă modernă",
+   "Lucian Blaga — Poem modernist",
+   "Liviu Rebreanu — Artă poetică modernistă",
+   "Ion Creangă — Basm cult"
+  ],
+  "answer": 3,
+  "explanation": "«Povestea lui Harap-Alb» este scrisă de Ion Creangă și se încadrează ca basm cult."
+ },
+ {
+  "work": "Povestea lui Harap-Alb",
+  "q": "Care formulare exprimă cel mai precis tema operei «Povestea lui Harap-Alb»?",
+  "options": [
+   "Căutarea adevărului, dreptatea și ordinea tradițională.",
+   "Incompatibilitatea dintre două moduri de existență și aspirația spre cunoaștere.",
+   "Maturizarea eroului prin probe și experiențe formative.",
+   "Satirizarea vieții politice și sociale."
+  ],
+  "answer": 2,
+  "explanation": "Tema centrală este: Maturizarea eroului prin probe și experiențe formative."
+ },
+ {
+  "work": "Povestea lui Harap-Alb",
+  "q": "Ce element de compoziție este relevant pentru analiza operei «Povestea lui Harap-Alb»?",
+  "options": [
+   "Înlocuirea analizei cu o opinie personală neargumentată.",
+   "Drumul inițiatic, probe, formule specifice basmului, cifre și obiecte magice.",
+   "Enumerarea datelor biografice ale autorului, fără legătură cu textul.",
+   "Povestirea integrală a conținutului, fără interpretare."
+  ],
+  "answer": 1,
+  "explanation": "Analiza trebuie să valorifice elementele indicate de construcția textului: Drumul inițiatic, probe, formule specifice basmului, cifre și obiecte magice."
+ },
+ {
+  "work": "Povestea lui Harap-Alb",
+  "q": "Care variantă descrie corect relația dintre temă și secvențele analizate?",
+  "options": [
+   "Tema se menționează numai în concluzie.",
+   "Secvențele se rezumă, fără explicarea semnificației.",
+   "Tema și secvențele sunt componente independente.",
+   "Secvențele trebuie interpretate ca dovezi ale temei, nu doar repovestite."
+  ],
+  "answer": 3,
+  "explanation": "Într-un răspuns solid, fiecare secvență este contextualizată și legată explicit de temă."
+ },
+ {
+  "work": "Povestea lui Harap-Alb",
+  "q": "Ce formulare indică o analiză literară mai riguroasă?",
+  "options": [
+   "Folosirea unor aprecieri generale, fără argumente.",
+   "Identificarea procedeului, exemplificarea și explicarea efectului său.",
+   "Enumerarea procedeelor fără exemple.",
+   "Redarea pe larg a acțiunii."
+  ],
+  "answer": 1,
+  "explanation": "Analiza completă unește observația, exemplul și efectul produs în text."
+ },
+ {
+  "work": "Povestea lui Harap-Alb",
+  "q": "Care este cea mai potrivită funcție a concluziei?",
+  "options": [
+   "Repetă integral introducerea.",
+   "Prezintă biografia completă a autorului.",
+   "Sintetizează demonstrația și reconfirmă încadrarea, fără idei noi.",
+   "Introduce o secvență care nu a fost analizată."
+  ],
+  "answer": 2,
+  "explanation": "Concluzia închide demonstrația și recuperează ideile esențiale."
+ },
+ {
+  "work": "Povestea lui Harap-Alb",
+  "q": "Cum trebuie analizată perspectiva narativă?",
+  "options": [
+   "Doar prin precizarea persoanei gramaticale.",
+   "Prin enumerarea personajelor.",
+   "Prin prezentarea exclusivă a biografiei autorului.",
+   "Prin tipul naratorului, focalizare, persoana relatării și efectul asupra construcției textului."
+  ],
+  "answer": 3,
+  "explanation": "Perspectiva narativă presupune mai mult decât persoana verbelor: include focalizarea și efectele relatării."
+ },
+ {
+  "work": "Povestea lui Harap-Alb",
+  "q": "Ce diferențiază analiza unei secvențe de un simplu rezumat?",
+  "options": [
+   "Folosirea unui număr mai mare de cuvinte.",
+   "Relatarea tuturor întâmplărilor în ordine.",
+   "Eliminarea oricărei referiri la temă.",
+   "Selectarea detaliilor semnificative și explicarea rolului lor în conflict și evoluția personajelor."
+  ],
+  "answer": 3,
+  "explanation": "Analiza urmărește semnificația și funcția secvenței în ansamblul operei."
+ },
+ {
+  "work": "Moara cu noroc",
+  "q": "Care asociere este corectă pentru opera «Moara cu noroc»?",
+  "options": [
+   "Ion Pillat — Artă poetică modernă",
+   "Camil Petrescu — Poezie romantică",
+   "Mihail Sadoveanu — Roman tradițional",
+   "Ioan Slavici — Nuvelă psihologică realistă"
+  ],
+  "answer": 3,
+  "explanation": "«Moara cu noroc» este scrisă de Ioan Slavici și se încadrează ca nuvelă psihologică realistă."
+ },
+ {
+  "work": "Moara cu noroc",
+  "q": "Care formulare exprimă cel mai precis tema operei «Moara cu noroc»?",
+  "options": [
+   "Singurătatea, căutarea libertății și a sensului existenței.",
+   "Maturizarea eroului prin probe și experiențe formative.",
+   "Degradarea morală provocată de dorința de îmbogățire.",
+   "Timpul, iubirea și continuitatea generațiilor."
+  ],
+  "answer": 2,
+  "explanation": "Tema centrală este: Degradarea morală provocată de dorința de îmbogățire."
+ },
+ {
+  "work": "Moara cu noroc",
+  "q": "Ce element de compoziție este relevant pentru analiza operei «Moara cu noroc»?",
+  "options": [
+   "Înlocuirea analizei cu o opinie personală neargumentată.",
+   "Conflict moral și exterior, perspectivă obiectivă, simetria incipit–final, analiză psihologică.",
+   "Enumerarea datelor biografice ale autorului, fără legătură cu textul.",
+   "Povestirea integrală a conținutului, fără interpretare."
+  ],
+  "answer": 1,
+  "explanation": "Analiza trebuie să valorifice elementele indicate de construcția textului: Conflict moral și exterior, perspectivă obiectivă, simetria incipit–final, analiză psihologică."
+ },
+ {
+  "work": "Moara cu noroc",
+  "q": "Care variantă descrie corect relația dintre temă și secvențele analizate?",
+  "options": [
+   "Tema se menționează numai în concluzie.",
+   "Secvențele se rezumă, fără explicarea semnificației.",
+   "Tema și secvențele sunt componente independente.",
+   "Secvențele trebuie interpretate ca dovezi ale temei, nu doar repovestite."
+  ],
+  "answer": 3,
+  "explanation": "Într-un răspuns solid, fiecare secvență este contextualizată și legată explicit de temă."
+ },
+ {
+  "work": "Moara cu noroc",
+  "q": "Ce formulare indică o analiză literară mai riguroasă?",
+  "options": [
+   "Folosirea unor aprecieri generale, fără argumente.",
+   "Identificarea procedeului, exemplificarea și explicarea efectului său.",
+   "Enumerarea procedeelor fără exemple.",
+   "Redarea pe larg a acțiunii."
+  ],
+  "answer": 1,
+  "explanation": "Analiza completă unește observația, exemplul și efectul produs în text."
+ },
+ {
+  "work": "Moara cu noroc",
+  "q": "Care este cea mai potrivită funcție a concluziei?",
+  "options": [
+   "Repetă integral introducerea.",
+   "Prezintă biografia completă a autorului.",
+   "Sintetizează demonstrația și reconfirmă încadrarea, fără idei noi.",
+   "Introduce o secvență care nu a fost analizată."
+  ],
+  "answer": 2,
+  "explanation": "Concluzia închide demonstrația și recuperează ideile esențiale."
+ },
+ {
+  "work": "Moara cu noroc",
+  "q": "Cum trebuie analizată perspectiva narativă?",
+  "options": [
+   "Doar prin precizarea persoanei gramaticale.",
+   "Prin enumerarea personajelor.",
+   "Prin prezentarea exclusivă a biografiei autorului.",
+   "Prin tipul naratorului, focalizare, persoana relatării și efectul asupra construcției textului."
+  ],
+  "answer": 3,
+  "explanation": "Perspectiva narativă presupune mai mult decât persoana verbelor: include focalizarea și efectele relatării."
+ },
+ {
+  "work": "Moara cu noroc",
+  "q": "Ce diferențiază analiza unei secvențe de un simplu rezumat?",
+  "options": [
+   "Folosirea unui număr mai mare de cuvinte.",
+   "Relatarea tuturor întâmplărilor în ordine.",
+   "Eliminarea oricărei referiri la temă.",
+   "Selectarea detaliilor semnificative și explicarea rolului lor în conflict și evoluția personajelor."
+  ],
+  "answer": 3,
+  "explanation": "Analiza urmărește semnificația și funcția secvenței în ansamblul operei."
+ },
+ {
+  "work": "O scrisoare pierdută",
+  "q": "Care asociere este corectă pentru opera «O scrisoare pierdută»?",
+  "options": [
+   "Ion Pillat — Artă poetică modernă",
+   "George Călinescu — Nuvelă psihologică realistă",
+   "I.L. Caragiale — Comedie de moravuri",
+   "Ion Creangă — Basm cult"
+  ],
+  "answer": 2,
+  "explanation": "«O scrisoare pierdută» este scrisă de I.L. Caragiale și se încadrează ca comedie de moravuri."
+ },
+ {
+  "work": "O scrisoare pierdută",
+  "q": "Care formulare exprimă cel mai precis tema operei «O scrisoare pierdută»?",
+  "options": [
+   "Cunoașterea poetică ce protejează și amplifică misterul.",
+   "Satirizarea vieții politice și sociale.",
+   "Singurătatea, căutarea libertății și a sensului existenței.",
+   "Lupta pentru putere și consecințele tiraniei."
+  ],
+  "answer": 1,
+  "explanation": "Tema centrală este: Satirizarea vieții politice și sociale."
+ },
+ {
+  "work": "O scrisoare pierdută",
+  "q": "Ce element de compoziție este relevant pentru analiza operei «O scrisoare pierdută»?",
+  "options": [
+   "Comicul de situație, caracter, limbaj și nume; conflict politic; final circular și festiv.",
+   "Enumerarea datelor biografice ale autorului, fără legătură cu textul.",
+   "Povestirea integrală a conținutului, fără interpretare.",
+   "Înlocuirea analizei cu o opinie personală neargumentată."
+  ],
+  "answer": 0,
+  "explanation": "Analiza trebuie să valorifice elementele indicate de construcția textului: Comicul de situație, caracter, limbaj și nume; conflict politic; final circular și festiv."
+ },
+ {
+  "work": "O scrisoare pierdută",
+  "q": "Care variantă descrie corect relația dintre temă și secvențele analizate?",
+  "options": [
+   "Tema se menționează numai în concluzie.",
+   "Secvențele se rezumă, fără explicarea semnificației.",
+   "Tema și secvențele sunt componente independente.",
+   "Secvențele trebuie interpretate ca dovezi ale temei, nu doar repovestite."
+  ],
+  "answer": 3,
+  "explanation": "Într-un răspuns solid, fiecare secvență este contextualizată și legată explicit de temă."
+ },
+ {
+  "work": "O scrisoare pierdută",
+  "q": "Ce formulare indică o analiză literară mai riguroasă?",
+  "options": [
+   "Folosirea unor aprecieri generale, fără argumente.",
+   "Identificarea procedeului, exemplificarea și explicarea efectului său.",
+   "Enumerarea procedeelor fără exemple.",
+   "Redarea pe larg a acțiunii."
+  ],
+  "answer": 1,
+  "explanation": "Analiza completă unește observația, exemplul și efectul produs în text."
+ },
+ {
+  "work": "O scrisoare pierdută",
+  "q": "Care este cea mai potrivită funcție a concluziei?",
+  "options": [
+   "Repetă integral introducerea.",
+   "Prezintă biografia completă a autorului.",
+   "Sintetizează demonstrația și reconfirmă încadrarea, fără idei noi.",
+   "Introduce o secvență care nu a fost analizată."
+  ],
+  "answer": 2,
+  "explanation": "Concluzia închide demonstrația și recuperează ideile esențiale."
+ },
+ {
+  "work": "O scrisoare pierdută",
+  "q": "Ce este esențial în analiza unei scene dramatice?",
+  "options": [
+   "Perspectiva unui narator omniscient.",
+   "Exclusiv descrierea cadrului natural.",
+   "Rezumatul biografiei dramaturgului.",
+   "Conflictul, replicile, didascaliile, relațiile dintre personaje și efectul scenic."
+  ],
+  "answer": 3,
+  "explanation": "Textul dramatic se construiește pentru reprezentare scenică, prin dialog, monolog și indicații scenice."
+ },
+ {
+  "work": "O scrisoare pierdută",
+  "q": "Cum se caracterizează un personaj dramatic?",
+  "options": [
+   "Doar prin intervențiile naratorului.",
+   "Exclusiv prin portretul fizic.",
+   "Numai prin rezumatul acțiunii.",
+   "Prin replici, acțiuni, relații, nume, indicații scenice și reacțiile celorlalți."
+  ],
+  "answer": 3,
+  "explanation": "Personajul dramatic se definește în principal prin limbaj și comportament scenic."
+ },
+ {
+  "work": "Ion",
+  "q": "Care asociere este corectă pentru opera «Ion»?",
+  "options": [
+   "Ion Barbu — Poem romantic",
+   "I.L. Caragiale — Roman al experienței",
+   "Liviu Rebreanu — Roman realist",
+   "Ion Creangă — Dramă modernă"
+  ],
+  "answer": 2,
+  "explanation": "«Ion» este scrisă de Liviu Rebreanu și se încadrează ca roman realist."
+ },
+ {
+  "work": "Ion",
+  "q": "Care formulare exprimă cel mai precis tema operei «Ion»?",
+  "options": [
+   "Creația ca moștenire spirituală și transformare artistică a suferinței.",
+   "Setea de pământ și consecințele ei asupra destinului individual.",
+   "Iubirea și incompatibilitatea dintre ideal și existența concretă.",
+   "Căutarea adevărului, dreptatea și ordinea tradițională."
+  ],
+  "answer": 1,
+  "explanation": "Tema centrală este: Setea de pământ și consecințele ei asupra destinului individual."
+ },
+ {
+  "work": "Ion",
+  "q": "Ce element de compoziție este relevant pentru analiza operei «Ion»?",
+  "options": [
+   "Două părți, Glasul pământului și Glasul iubirii; narator obiectiv; planuri sociale paralele.",
+   "Enumerarea datelor biografice ale autorului, fără legătură cu textul.",
+   "Povestirea integrală a conținutului, fără interpretare.",
+   "Înlocuirea analizei cu o opinie personală neargumentată."
+  ],
+  "answer": 0,
+  "explanation": "Analiza trebuie să valorifice elementele indicate de construcția textului: Două părți, Glasul pământului și Glasul iubirii; narator obiectiv; planuri sociale paralele."
+ },
+ {
+  "work": "Ion",
+  "q": "Care variantă descrie corect relația dintre temă și secvențele analizate?",
+  "options": [
+   "Tema se menționează numai în concluzie.",
+   "Secvențele se rezumă, fără explicarea semnificației.",
+   "Tema și secvențele sunt componente independente.",
+   "Secvențele trebuie interpretate ca dovezi ale temei, nu doar repovestite."
+  ],
+  "answer": 3,
+  "explanation": "Într-un răspuns solid, fiecare secvență este contextualizată și legată explicit de temă."
+ },
+ {
+  "work": "Ion",
+  "q": "Ce formulare indică o analiză literară mai riguroasă?",
+  "options": [
+   "Folosirea unor aprecieri generale, fără argumente.",
+   "Identificarea procedeului, exemplificarea și explicarea efectului său.",
+   "Enumerarea procedeelor fără exemple.",
+   "Redarea pe larg a acțiunii."
+  ],
+  "answer": 1,
+  "explanation": "Analiza completă unește observația, exemplul și efectul produs în text."
+ },
+ {
+  "work": "Ion",
+  "q": "Care este cea mai potrivită funcție a concluziei?",
+  "options": [
+   "Repetă integral introducerea.",
+   "Prezintă biografia completă a autorului.",
+   "Sintetizează demonstrația și reconfirmă încadrarea, fără idei noi.",
+   "Introduce o secvență care nu a fost analizată."
+  ],
+  "answer": 2,
+  "explanation": "Concluzia închide demonstrația și recuperează ideile esențiale."
+ },
+ {
+  "work": "Ion",
+  "q": "Cum trebuie analizată perspectiva narativă?",
+  "options": [
+   "Doar prin precizarea persoanei gramaticale.",
+   "Prin enumerarea personajelor.",
+   "Prin prezentarea exclusivă a biografiei autorului.",
+   "Prin tipul naratorului, focalizare, persoana relatării și efectul asupra construcției textului."
+  ],
+  "answer": 3,
+  "explanation": "Perspectiva narativă presupune mai mult decât persoana verbelor: include focalizarea și efectele relatării."
+ },
+ {
+  "work": "Ion",
+  "q": "Ce diferențiază analiza unei secvențe de un simplu rezumat?",
+  "options": [
+   "Folosirea unui număr mai mare de cuvinte.",
+   "Relatarea tuturor întâmplărilor în ordine.",
+   "Eliminarea oricărei referiri la temă.",
+   "Selectarea detaliilor semnificative și explicarea rolului lor în conflict și evoluția personajelor."
+  ],
+  "answer": 3,
+  "explanation": "Analiza urmărește semnificația și funcția secvenței în ansamblul operei."
+ },
+ {
+  "work": "Ultima noapte de dragoste, întâia noapte de război",
+  "q": "Care asociere este corectă pentru opera «Ultima noapte de dragoste, întâia noapte de război»?",
+  "options": [
+   "Ion Barbu — Poem romantic",
+   "Lucian Blaga — Roman realist balzacian",
+   "Camil Petrescu — Roman modern",
+   "Mihail Sadoveanu — Dramă modernă"
+  ],
+  "answer": 2,
+  "explanation": "«Ultima noapte de dragoste, întâia noapte de război» este scrisă de Camil Petrescu și se încadrează ca roman modern."
+ },
+ {
+  "work": "Ultima noapte de dragoste, întâia noapte de război",
+  "q": "Care formulare exprimă cel mai precis tema operei «Ultima noapte de dragoste, întâia noapte de război»?",
+  "options": [
+   "Iubirea și incompatibilitatea dintre ideal și existența concretă.",
+   "Iubirea, gelozia și experiența războiului filtrate prin conștiința personajului.",
+   "Setea de pământ și consecințele ei asupra destinului individual.",
+   "Condiția geniului și incompatibilitatea dintre absolut și lumea comună."
+  ],
+  "answer": 1,
+  "explanation": "Tema centrală este: Iubirea, gelozia și experiența războiului filtrate prin conștiința personajului."
+ },
+ {
+  "work": "Ultima noapte de dragoste, întâia noapte de război",
+  "q": "Ce element de compoziție este relevant pentru analiza operei «Ultima noapte de dragoste, întâia noapte de război»?",
+  "options": [
+   "Perspectivă subiectivă, persoana I, memorie involuntară, două experiențe fundamentale.",
+   "Enumerarea datelor biografice ale autorului, fără legătură cu textul.",
+   "Povestirea integrală a conținutului, fără interpretare.",
+   "Înlocuirea analizei cu o opinie personală neargumentată."
+  ],
+  "answer": 0,
+  "explanation": "Analiza trebuie să valorifice elementele indicate de construcția textului: Perspectivă subiectivă, persoana I, memorie involuntară, două experiențe fundamentale."
+ },
+ {
+  "work": "Ultima noapte de dragoste, întâia noapte de război",
+  "q": "Care variantă descrie corect relația dintre temă și secvențele analizate?",
+  "options": [
+   "Tema se menționează numai în concluzie.",
+   "Secvențele se rezumă, fără explicarea semnificației.",
+   "Tema și secvențele sunt componente independente.",
+   "Secvențele trebuie interpretate ca dovezi ale temei, nu doar repovestite."
+  ],
+  "answer": 3,
+  "explanation": "Într-un răspuns solid, fiecare secvență este contextualizată și legată explicit de temă."
+ },
+ {
+  "work": "Ultima noapte de dragoste, întâia noapte de război",
+  "q": "Ce formulare indică o analiză literară mai riguroasă?",
+  "options": [
+   "Folosirea unor aprecieri generale, fără argumente.",
+   "Identificarea procedeului, exemplificarea și explicarea efectului său.",
+   "Enumerarea procedeelor fără exemple.",
+   "Redarea pe larg a acțiunii."
+  ],
+  "answer": 1,
+  "explanation": "Analiza completă unește observația, exemplul și efectul produs în text."
+ },
+ {
+  "work": "Ultima noapte de dragoste, întâia noapte de război",
+  "q": "Care este cea mai potrivită funcție a concluziei?",
+  "options": [
+   "Repetă integral introducerea.",
+   "Prezintă biografia completă a autorului.",
+   "Sintetizează demonstrația și reconfirmă încadrarea, fără idei noi.",
+   "Introduce o secvență care nu a fost analizată."
+  ],
+  "answer": 2,
+  "explanation": "Concluzia închide demonstrația și recuperează ideile esențiale."
+ },
+ {
+  "work": "Ultima noapte de dragoste, întâia noapte de război",
+  "q": "Cum trebuie analizată perspectiva narativă?",
+  "options": [
+   "Doar prin precizarea persoanei gramaticale.",
+   "Prin enumerarea personajelor.",
+   "Prin prezentarea exclusivă a biografiei autorului.",
+   "Prin tipul naratorului, focalizare, persoana relatării și efectul asupra construcției textului."
+  ],
+  "answer": 3,
+  "explanation": "Perspectiva narativă presupune mai mult decât persoana verbelor: include focalizarea și efectele relatării."
+ },
+ {
+  "work": "Ultima noapte de dragoste, întâia noapte de război",
+  "q": "Ce diferențiază analiza unei secvențe de un simplu rezumat?",
+  "options": [
+   "Folosirea unui număr mai mare de cuvinte.",
+   "Relatarea tuturor întâmplărilor în ordine.",
+   "Eliminarea oricărei referiri la temă.",
+   "Selectarea detaliilor semnificative și explicarea rolului lor în conflict și evoluția personajelor."
+  ],
+  "answer": 3,
+  "explanation": "Analiza urmărește semnificația și funcția secvenței în ansamblul operei."
+ },
+ {
+  "work": "Enigma Otiliei",
+  "q": "Care asociere este corectă pentru opera «Enigma Otiliei»?",
+  "options": [
+   "George Călinescu — Roman realist balzacian",
+   "Ion Barbu — Dramă modernă",
+   "Mihail Sadoveanu — Basm cult",
+   "Lucian Blaga — Artă poetică modernă"
+  ],
+  "answer": 0,
+  "explanation": "«Enigma Otiliei» este scrisă de George Călinescu și se încadrează ca roman realist balzacian."
+ },
+ {
+  "work": "Enigma Otiliei",
+  "q": "Care formulare exprimă cel mai precis tema operei «Enigma Otiliei»?",
+  "options": [
+   "Iubirea ca experiență transformatoare a ființei și a percepției.",
+   "Iubirea, gelozia și experiența războiului filtrate prin conștiința personajului.",
+   "Setea de pământ și consecințele ei asupra destinului individual.",
+   "Moștenirea, familia și formarea tânărului într-o societate dominată de bani."
+  ],
+  "answer": 3,
+  "explanation": "Tema centrală este: Moștenirea, familia și formarea tânărului într-o societate dominată de bani."
+ },
+ {
+  "work": "Enigma Otiliei",
+  "q": "Ce element de compoziție este relevant pentru analiza operei «Enigma Otiliei»?",
+  "options": [
+   "Povestirea integrală a conținutului, fără interpretare.",
+   "Înlocuirea analizei cu o opinie personală neargumentată.",
+   "Tehnica balzaciană, descrierea mediului, tipologii, perspectivă obiectivă și elemente moderne.",
+   "Enumerarea datelor biografice ale autorului, fără legătură cu textul."
+  ],
+  "answer": 2,
+  "explanation": "Analiza trebuie să valorifice elementele indicate de construcția textului: Tehnica balzaciană, descrierea mediului, tipologii, perspectivă obiectivă și elemente moderne."
+ },
+ {
+  "work": "Enigma Otiliei",
+  "q": "Care variantă descrie corect relația dintre temă și secvențele analizate?",
+  "options": [
+   "Tema se menționează numai în concluzie.",
+   "Secvențele se rezumă, fără explicarea semnificației.",
+   "Tema și secvențele sunt componente independente.",
+   "Secvențele trebuie interpretate ca dovezi ale temei, nu doar repovestite."
+  ],
+  "answer": 3,
+  "explanation": "Într-un răspuns solid, fiecare secvență este contextualizată și legată explicit de temă."
+ },
+ {
+  "work": "Enigma Otiliei",
+  "q": "Ce formulare indică o analiză literară mai riguroasă?",
+  "options": [
+   "Folosirea unor aprecieri generale, fără argumente.",
+   "Identificarea procedeului, exemplificarea și explicarea efectului său.",
+   "Enumerarea procedeelor fără exemple.",
+   "Redarea pe larg a acțiunii."
+  ],
+  "answer": 1,
+  "explanation": "Analiza completă unește observația, exemplul și efectul produs în text."
+ },
+ {
+  "work": "Enigma Otiliei",
+  "q": "Care este cea mai potrivită funcție a concluziei?",
+  "options": [
+   "Repetă integral introducerea.",
+   "Prezintă biografia completă a autorului.",
+   "Sintetizează demonstrația și reconfirmă încadrarea, fără idei noi.",
+   "Introduce o secvență care nu a fost analizată."
+  ],
+  "answer": 2,
+  "explanation": "Concluzia închide demonstrația și recuperează ideile esențiale."
+ },
+ {
+  "work": "Enigma Otiliei",
+  "q": "Cum trebuie analizată perspectiva narativă?",
+  "options": [
+   "Doar prin precizarea persoanei gramaticale.",
+   "Prin enumerarea personajelor.",
+   "Prin prezentarea exclusivă a biografiei autorului.",
+   "Prin tipul naratorului, focalizare, persoana relatării și efectul asupra construcției textului."
+  ],
+  "answer": 3,
+  "explanation": "Perspectiva narativă presupune mai mult decât persoana verbelor: include focalizarea și efectele relatării."
+ },
+ {
+  "work": "Enigma Otiliei",
+  "q": "Ce diferențiază analiza unei secvențe de un simplu rezumat?",
+  "options": [
+   "Folosirea unui număr mai mare de cuvinte.",
+   "Relatarea tuturor întâmplărilor în ordine.",
+   "Eliminarea oricărei referiri la temă.",
+   "Selectarea detaliilor semnificative și explicarea rolului lor în conflict și evoluția personajelor."
+  ],
+  "answer": 3,
+  "explanation": "Analiza urmărește semnificația și funcția secvenței în ansamblul operei."
+ },
+ {
+  "work": "Moromeții",
+  "q": "Care asociere este corectă pentru opera «Moromeții»?",
+  "options": [
+   "Marin Preda — Roman postbelic",
+   "Ion Pillat — Poem modernist",
+   "Mircea Eliade — Poezie romantică",
+   "Ioan Slavici — Roman tradițional"
+  ],
+  "answer": 0,
+  "explanation": "«Moromeții» este scrisă de Marin Preda și se încadrează ca roman postbelic."
+ },
+ {
+  "work": "Moromeții",
+  "q": "Care formulare exprimă cel mai precis tema operei «Moromeții»?",
+  "options": [
+   "Lupta pentru putere și consecințele tiraniei.",
+   "Cunoașterea poetică ce protejează și amplifică misterul.",
+   "Degradarea morală provocată de dorința de îmbogățire.",
+   "Destrămarea familiei tradiționale și criza lumii rurale."
+  ],
+  "answer": 3,
+  "explanation": "Tema centrală este: Destrămarea familiei tradiționale și criza lumii rurale."
+ },
+ {
+  "work": "Moromeții",
+  "q": "Ce element de compoziție este relevant pentru analiza operei «Moromeții»?",
+  "options": [
+   "Povestirea integrală a conținutului, fără interpretare.",
+   "Înlocuirea analizei cu o opinie personală neargumentată.",
+   "Timp răbdător/timp accelerat, scene colective, dialog, perspectivă realistă și ironică.",
+   "Enumerarea datelor biografice ale autorului, fără legătură cu textul."
+  ],
+  "answer": 2,
+  "explanation": "Analiza trebuie să valorifice elementele indicate de construcția textului: Timp răbdător/timp accelerat, scene colective, dialog, perspectivă realistă și ironică."
+ },
+ {
+  "work": "Moromeții",
+  "q": "Care variantă descrie corect relația dintre temă și secvențele analizate?",
+  "options": [
+   "Tema se menționează numai în concluzie.",
+   "Secvențele se rezumă, fără explicarea semnificației.",
+   "Tema și secvențele sunt componente independente.",
+   "Secvențele trebuie interpretate ca dovezi ale temei, nu doar repovestite."
+  ],
+  "answer": 3,
+  "explanation": "Într-un răspuns solid, fiecare secvență este contextualizată și legată explicit de temă."
+ },
+ {
+  "work": "Moromeții",
+  "q": "Ce formulare indică o analiză literară mai riguroasă?",
+  "options": [
+   "Folosirea unor aprecieri generale, fără argumente.",
+   "Identificarea procedeului, exemplificarea și explicarea efectului său.",
+   "Enumerarea procedeelor fără exemple.",
+   "Redarea pe larg a acțiunii."
+  ],
+  "answer": 1,
+  "explanation": "Analiza completă unește observația, exemplul și efectul produs în text."
+ },
+ {
+  "work": "Moromeții",
+  "q": "Care este cea mai potrivită funcție a concluziei?",
+  "options": [
+   "Repetă integral introducerea.",
+   "Prezintă biografia completă a autorului.",
+   "Sintetizează demonstrația și reconfirmă încadrarea, fără idei noi.",
+   "Introduce o secvență care nu a fost analizată."
+  ],
+  "answer": 2,
+  "explanation": "Concluzia închide demonstrația și recuperează ideile esențiale."
+ },
+ {
+  "work": "Moromeții",
+  "q": "Cum trebuie analizată perspectiva narativă?",
+  "options": [
+   "Doar prin precizarea persoanei gramaticale.",
+   "Prin enumerarea personajelor.",
+   "Prin prezentarea exclusivă a biografiei autorului.",
+   "Prin tipul naratorului, focalizare, persoana relatării și efectul asupra construcției textului."
+  ],
+  "answer": 3,
+  "explanation": "Perspectiva narativă presupune mai mult decât persoana verbelor: include focalizarea și efectele relatării."
+ },
+ {
+  "work": "Moromeții",
+  "q": "Ce diferențiază analiza unei secvențe de un simplu rezumat?",
+  "options": [
+   "Folosirea unui număr mai mare de cuvinte.",
+   "Relatarea tuturor întâmplărilor în ordine.",
+   "Eliminarea oricărei referiri la temă.",
+   "Selectarea detaliilor semnificative și explicarea rolului lor în conflict și evoluția personajelor."
+  ],
+  "answer": 3,
+  "explanation": "Analiza urmărește semnificația și funcția secvenței în ansamblul operei."
+ },
+ {
+  "work": "Testament",
+  "q": "Care asociere este corectă pentru opera «Testament»?",
+  "options": [
+   "Lucian Blaga — Roman tradițional",
+   "Nichita Stănescu — Poezie tradiționalistă",
+   "George Călinescu — Dramă modernă",
+   "Tudor Arghezi — Artă poetică modernă"
+  ],
+  "answer": 3,
+  "explanation": "«Testament» este scrisă de Tudor Arghezi și se încadrează ca artă poetică modernă."
+ },
+ {
+  "work": "Testament",
+  "q": "Care formulare exprimă cel mai precis tema operei «Testament»?",
+  "options": [
+   "Incompatibilitatea dintre două moduri de existență și aspirația spre cunoaștere.",
+   "Degradarea morală provocată de dorința de îmbogățire.",
+   "Creația ca moștenire spirituală și transformare artistică a suferinței.",
+   "Moștenirea, familia și formarea tânărului într-o societate dominată de bani."
+  ],
+  "answer": 2,
+  "explanation": "Tema centrală este: Creația ca moștenire spirituală și transformare artistică a suferinței."
+ },
+ {
+  "work": "Testament",
+  "q": "Ce element de compoziție este relevant pentru analiza operei «Testament»?",
+  "options": [
+   "Înlocuirea analizei cu o opinie personală neargumentată.",
+   "Metafora cărții, estetica urâtului, alternanța registrelor, limbaj expresiv.",
+   "Enumerarea datelor biografice ale autorului, fără legătură cu textul.",
+   "Povestirea integrală a conținutului, fără interpretare."
+  ],
+  "answer": 1,
+  "explanation": "Analiza trebuie să valorifice elementele indicate de construcția textului: Metafora cărții, estetica urâtului, alternanța registrelor, limbaj expresiv."
+ },
+ {
+  "work": "Testament",
+  "q": "Care variantă descrie corect relația dintre temă și secvențele analizate?",
+  "options": [
+   "Tema se menționează numai în concluzie.",
+   "Secvențele se rezumă, fără explicarea semnificației.",
+   "Tema și secvențele sunt componente independente.",
+   "Secvențele trebuie interpretate ca dovezi ale temei, nu doar repovestite."
+  ],
+  "answer": 3,
+  "explanation": "Într-un răspuns solid, fiecare secvență este contextualizată și legată explicit de temă."
+ },
+ {
+  "work": "Testament",
+  "q": "Ce formulare indică o analiză literară mai riguroasă?",
+  "options": [
+   "Folosirea unor aprecieri generale, fără argumente.",
+   "Identificarea procedeului, exemplificarea și explicarea efectului său.",
+   "Enumerarea procedeelor fără exemple.",
+   "Redarea pe larg a acțiunii."
+  ],
+  "answer": 1,
+  "explanation": "Analiza completă unește observația, exemplul și efectul produs în text."
+ },
+ {
+  "work": "Testament",
+  "q": "Care este cea mai potrivită funcție a concluziei?",
+  "options": [
+   "Repetă integral introducerea.",
+   "Prezintă biografia completă a autorului.",
+   "Sintetizează demonstrația și reconfirmă încadrarea, fără idei noi.",
+   "Introduce o secvență care nu a fost analizată."
+  ],
+  "answer": 2,
+  "explanation": "Concluzia închide demonstrația și recuperează ideile esențiale."
+ },
+ {
+  "work": "Testament",
+  "q": "Care este centrul unei analize adecvate a textului liric?",
+  "options": [
+   "Caracterizarea unor personaje principale.",
+   "Identificarea unui narator omniscient.",
+   "Relația dintre ideile poetice și mijloacele artistice prin care sunt exprimate.",
+   "Rezumatul unei acțiuni."
+  ],
+  "answer": 2,
+  "explanation": "Poezia se analizează prin idei poetice, imagini, simboluri, figuri de stil și organizarea discursului liric."
+ },
+ {
+  "work": "Testament",
+  "q": "Cum se comentează corect o imagine poetică?",
+  "options": [
+   "Se transcrie imaginea fără interpretare.",
+   "Se înlocuiește cu un rezumat.",
+   "Se analizează ca indicație scenică.",
+   "Se identifică imaginea, se explică procedeul și se leagă de ideea poetică."
+  ],
+  "answer": 3,
+  "explanation": "Comentariul trebuie să arate contribuția imaginii la sensul și atmosfera poeziei."
+ },
+ {
+  "work": "Eu nu strivesc corola de minuni a lumii",
+  "q": "Care asociere este corectă pentru opera «Eu nu strivesc corola de minuni a lumii»?",
+  "options": [
+   "Ion Pillat — Roman realist balzacian",
+   "Tudor Arghezi — Nuvelă psihologică realistă",
+   "Lucian Blaga — Artă poetică modernistă",
+   "I.L. Caragiale — Roman modern"
+  ],
+  "answer": 2,
+  "explanation": "«Eu nu strivesc corola de minuni a lumii» este scrisă de Lucian Blaga și se încadrează ca artă poetică modernistă."
+ },
+ {
+  "work": "Eu nu strivesc corola de minuni a lumii",
+  "q": "Care formulare exprimă cel mai precis tema operei «Eu nu strivesc corola de minuni a lumii»?",
+  "options": [
+   "Lupta pentru putere și consecințele tiraniei.",
+   "Cunoașterea poetică ce protejează și amplifică misterul.",
+   "Maturizarea eroului prin probe și experiențe formative.",
+   "Destrămarea familiei tradiționale și criza lumii rurale."
+  ],
+  "answer": 1,
+  "explanation": "Tema centrală este: Cunoașterea poetică ce protejează și amplifică misterul."
+ },
+ {
+  "work": "Eu nu strivesc corola de minuni a lumii",
+  "q": "Ce element de compoziție este relevant pentru analiza operei «Eu nu strivesc corola de minuni a lumii»?",
+  "options": [
+   "Metafora luminii, opoziția eu–alții, vers liber, imagini cosmice.",
+   "Enumerarea datelor biografice ale autorului, fără legătură cu textul.",
+   "Povestirea integrală a conținutului, fără interpretare.",
+   "Înlocuirea analizei cu o opinie personală neargumentată."
+  ],
+  "answer": 0,
+  "explanation": "Analiza trebuie să valorifice elementele indicate de construcția textului: Metafora luminii, opoziția eu–alții, vers liber, imagini cosmice."
+ },
+ {
+  "work": "Eu nu strivesc corola de minuni a lumii",
+  "q": "Care variantă descrie corect relația dintre temă și secvențele analizate?",
+  "options": [
+   "Tema se menționează numai în concluzie.",
+   "Secvențele se rezumă, fără explicarea semnificației.",
+   "Tema și secvențele sunt componente independente.",
+   "Secvențele trebuie interpretate ca dovezi ale temei, nu doar repovestite."
+  ],
+  "answer": 3,
+  "explanation": "Într-un răspuns solid, fiecare secvență este contextualizată și legată explicit de temă."
+ },
+ {
+  "work": "Eu nu strivesc corola de minuni a lumii",
+  "q": "Ce formulare indică o analiză literară mai riguroasă?",
+  "options": [
+   "Folosirea unor aprecieri generale, fără argumente.",
+   "Identificarea procedeului, exemplificarea și explicarea efectului său.",
+   "Enumerarea procedeelor fără exemple.",
+   "Redarea pe larg a acțiunii."
+  ],
+  "answer": 1,
+  "explanation": "Analiza completă unește observația, exemplul și efectul produs în text."
+ },
+ {
+  "work": "Eu nu strivesc corola de minuni a lumii",
+  "q": "Care este cea mai potrivită funcție a concluziei?",
+  "options": [
+   "Repetă integral introducerea.",
+   "Prezintă biografia completă a autorului.",
+   "Sintetizează demonstrația și reconfirmă încadrarea, fără idei noi.",
+   "Introduce o secvență care nu a fost analizată."
+  ],
+  "answer": 2,
+  "explanation": "Concluzia închide demonstrația și recuperează ideile esențiale."
+ },
+ {
+  "work": "Eu nu strivesc corola de minuni a lumii",
+  "q": "Care este centrul unei analize adecvate a textului liric?",
+  "options": [
+   "Caracterizarea unor personaje principale.",
+   "Identificarea unui narator omniscient.",
+   "Relația dintre ideile poetice și mijloacele artistice prin care sunt exprimate.",
+   "Rezumatul unei acțiuni."
+  ],
+  "answer": 2,
+  "explanation": "Poezia se analizează prin idei poetice, imagini, simboluri, figuri de stil și organizarea discursului liric."
+ },
+ {
+  "work": "Eu nu strivesc corola de minuni a lumii",
+  "q": "Cum se comentează corect o imagine poetică?",
+  "options": [
+   "Se transcrie imaginea fără interpretare.",
+   "Se înlocuiește cu un rezumat.",
+   "Se analizează ca indicație scenică.",
+   "Se identifică imaginea, se explică procedeul și se leagă de ideea poetică."
+  ],
+  "answer": 3,
+  "explanation": "Comentariul trebuie să arate contribuția imaginii la sensul și atmosfera poeziei."
+ },
+ {
+  "work": "Riga Crypto și lapona Enigel",
+  "q": "Care asociere este corectă pentru opera «Riga Crypto și lapona Enigel»?",
+  "options": [
+   "Ioan Slavici — Roman realist",
+   "Ion Creangă — Poezie romantică",
+   "Tudor Arghezi — Comedie de moravuri",
+   "Ion Barbu — Poem modernist"
+  ],
+  "answer": 3,
+  "explanation": "«Riga Crypto și lapona Enigel» este scrisă de Ion Barbu și se încadrează ca poem modernist."
+ },
+ {
+  "work": "Riga Crypto și lapona Enigel",
+  "q": "Care formulare exprimă cel mai precis tema operei «Riga Crypto și lapona Enigel»?",
+  "options": [
+   "Iubirea ca experiență transformatoare a ființei și a percepției.",
+   "Maturizarea eroului prin probe și experiențe formative.",
+   "Incompatibilitatea dintre două moduri de existență și aspirația spre cunoaștere.",
+   "Cunoașterea poetică ce protejează și amplifică misterul."
+  ],
+  "answer": 2,
+  "explanation": "Tema centrală este: Incompatibilitatea dintre două moduri de existență și aspirația spre cunoaștere."
+ },
+ {
+  "work": "Riga Crypto și lapona Enigel",
+  "q": "Ce element de compoziție este relevant pentru analiza operei «Riga Crypto și lapona Enigel»?",
+  "options": [
+   "Înlocuirea analizei cu o opinie personală neargumentată.",
+   "Povestire în ramă, alegorie, simboluri, opoziția umbră–soare.",
+   "Enumerarea datelor biografice ale autorului, fără legătură cu textul.",
+   "Povestirea integrală a conținutului, fără interpretare."
+  ],
+  "answer": 1,
+  "explanation": "Analiza trebuie să valorifice elementele indicate de construcția textului: Povestire în ramă, alegorie, simboluri, opoziția umbră–soare."
+ },
+ {
+  "work": "Riga Crypto și lapona Enigel",
+  "q": "Care variantă descrie corect relația dintre temă și secvențele analizate?",
+  "options": [
+   "Tema se menționează numai în concluzie.",
+   "Secvențele se rezumă, fără explicarea semnificației.",
+   "Tema și secvențele sunt componente independente.",
+   "Secvențele trebuie interpretate ca dovezi ale temei, nu doar repovestite."
+  ],
+  "answer": 3,
+  "explanation": "Într-un răspuns solid, fiecare secvență este contextualizată și legată explicit de temă."
+ },
+ {
+  "work": "Riga Crypto și lapona Enigel",
+  "q": "Ce formulare indică o analiză literară mai riguroasă?",
+  "options": [
+   "Folosirea unor aprecieri generale, fără argumente.",
+   "Identificarea procedeului, exemplificarea și explicarea efectului său.",
+   "Enumerarea procedeelor fără exemple.",
+   "Redarea pe larg a acțiunii."
+  ],
+  "answer": 1,
+  "explanation": "Analiza completă unește observația, exemplul și efectul produs în text."
+ },
+ {
+  "work": "Riga Crypto și lapona Enigel",
+  "q": "Care este cea mai potrivită funcție a concluziei?",
+  "options": [
+   "Repetă integral introducerea.",
+   "Prezintă biografia completă a autorului.",
+   "Sintetizează demonstrația și reconfirmă încadrarea, fără idei noi.",
+   "Introduce o secvență care nu a fost analizată."
+  ],
+  "answer": 2,
+  "explanation": "Concluzia închide demonstrația și recuperează ideile esențiale."
+ },
+ {
+  "work": "Riga Crypto și lapona Enigel",
+  "q": "Care este centrul unei analize adecvate a textului liric?",
+  "options": [
+   "Caracterizarea unor personaje principale.",
+   "Identificarea unui narator omniscient.",
+   "Relația dintre ideile poetice și mijloacele artistice prin care sunt exprimate.",
+   "Rezumatul unei acțiuni."
+  ],
+  "answer": 2,
+  "explanation": "Poezia se analizează prin idei poetice, imagini, simboluri, figuri de stil și organizarea discursului liric."
+ },
+ {
+  "work": "Riga Crypto și lapona Enigel",
+  "q": "Cum se comentează corect o imagine poetică?",
+  "options": [
+   "Se transcrie imaginea fără interpretare.",
+   "Se înlocuiește cu un rezumat.",
+   "Se analizează ca indicație scenică.",
+   "Se identifică imaginea, se explică procedeul și se leagă de ideea poetică."
+  ],
+  "answer": 3,
+  "explanation": "Comentariul trebuie să arate contribuția imaginii la sensul și atmosfera poeziei."
+ },
+ {
+  "work": "Leoaică tânără, iubirea",
+  "q": "Care asociere este corectă pentru opera «Leoaică tânără, iubirea»?",
+  "options": [
+   "Liviu Rebreanu — Basm cult",
+   "Ion Barbu — Roman postbelic",
+   "Mihail Sadoveanu — Poem modernist",
+   "Nichita Stănescu — Poezie neomodernistă"
+  ],
+  "answer": 3,
+  "explanation": "«Leoaică tânără, iubirea» este scrisă de Nichita Stănescu și se încadrează ca poezie neomodernistă."
+ },
+ {
+  "work": "Leoaică tânără, iubirea",
+  "q": "Care formulare exprimă cel mai precis tema operei «Leoaică tânără, iubirea»?",
+  "options": [
+   "Cunoașterea poetică ce protejează și amplifică misterul.",
+   "Maturizarea eroului prin probe și experiențe formative.",
+   "Iubirea ca experiență transformatoare a ființei și a percepției.",
+   "Iubirea, gelozia și experiența războiului filtrate prin conștiința personajului."
+  ],
+  "answer": 2,
+  "explanation": "Tema centrală este: Iubirea ca experiență transformatoare a ființei și a percepției."
+ },
+ {
+  "work": "Leoaică tânără, iubirea",
+  "q": "Ce element de compoziție este relevant pentru analiza operei «Leoaică tânără, iubirea»?",
+  "options": [
+   "Înlocuirea analizei cu o opinie personală neargumentată.",
+   "Metaforă centrală, imagini surprinzătoare, dinamism, transformarea spațiului și timpului.",
+   "Enumerarea datelor biografice ale autorului, fără legătură cu textul.",
+   "Povestirea integrală a conținutului, fără interpretare."
+  ],
+  "answer": 1,
+  "explanation": "Analiza trebuie să valorifice elementele indicate de construcția textului: Metaforă centrală, imagini surprinzătoare, dinamism, transformarea spațiului și timpului."
+ },
+ {
+  "work": "Leoaică tânără, iubirea",
+  "q": "Care variantă descrie corect relația dintre temă și secvențele analizate?",
+  "options": [
+   "Tema se menționează numai în concluzie.",
+   "Secvențele se rezumă, fără explicarea semnificației.",
+   "Tema și secvențele sunt componente independente.",
+   "Secvențele trebuie interpretate ca dovezi ale temei, nu doar repovestite."
+  ],
+  "answer": 3,
+  "explanation": "Într-un răspuns solid, fiecare secvență este contextualizată și legată explicit de temă."
+ },
+ {
+  "work": "Leoaică tânără, iubirea",
+  "q": "Ce formulare indică o analiză literară mai riguroasă?",
+  "options": [
+   "Folosirea unor aprecieri generale, fără argumente.",
+   "Identificarea procedeului, exemplificarea și explicarea efectului său.",
+   "Enumerarea procedeelor fără exemple.",
+   "Redarea pe larg a acțiunii."
+  ],
+  "answer": 1,
+  "explanation": "Analiza completă unește observația, exemplul și efectul produs în text."
+ },
+ {
+  "work": "Leoaică tânără, iubirea",
+  "q": "Care este cea mai potrivită funcție a concluziei?",
+  "options": [
+   "Repetă integral introducerea.",
+   "Prezintă biografia completă a autorului.",
+   "Sintetizează demonstrația și reconfirmă încadrarea, fără idei noi.",
+   "Introduce o secvență care nu a fost analizată."
+  ],
+  "answer": 2,
+  "explanation": "Concluzia închide demonstrația și recuperează ideile esențiale."
+ },
+ {
+  "work": "Leoaică tânără, iubirea",
+  "q": "Care este centrul unei analize adecvate a textului liric?",
+  "options": [
+   "Caracterizarea unor personaje principale.",
+   "Identificarea unui narator omniscient.",
+   "Relația dintre ideile poetice și mijloacele artistice prin care sunt exprimate.",
+   "Rezumatul unei acțiuni."
+  ],
+  "answer": 2,
+  "explanation": "Poezia se analizează prin idei poetice, imagini, simboluri, figuri de stil și organizarea discursului liric."
+ },
+ {
+  "work": "Leoaică tânără, iubirea",
+  "q": "Cum se comentează corect o imagine poetică?",
+  "options": [
+   "Se transcrie imaginea fără interpretare.",
+   "Se înlocuiește cu un rezumat.",
+   "Se analizează ca indicație scenică.",
+   "Se identifică imaginea, se explică procedeul și se leagă de ideea poetică."
+  ],
+  "answer": 3,
+  "explanation": "Comentariul trebuie să arate contribuția imaginii la sensul și atmosfera poeziei."
+ },
+ {
+  "work": "Iona",
+  "q": "Care asociere este corectă pentru opera «Iona»?",
+  "options": [
+   "Ion Creangă — Comedie de moravuri",
+   "Marin Sorescu — Dramă modernă",
+   "George Călinescu — Basm cult",
+   "Costache Negruzzi — Artă poetică modernă"
+  ],
+  "answer": 1,
+  "explanation": "«Iona» este scrisă de Marin Sorescu și se încadrează ca dramă modernă."
+ },
+ {
+  "work": "Iona",
+  "q": "Care formulare exprimă cel mai precis tema operei «Iona»?",
+  "options": [
+   "Singurătatea, căutarea libertății și a sensului existenței.",
+   "Maturizarea eroului prin probe și experiențe formative.",
+   "Condiția geniului și incompatibilitatea dintre absolut și lumea comună.",
+   "Iubirea imposibilă și întâlnirea dintre două culturi."
+  ],
+  "answer": 0,
+  "explanation": "Tema centrală este: Singurătatea, căutarea libertății și a sensului existenței."
+ },
+ {
+  "work": "Iona",
+  "q": "Ce element de compoziție este relevant pentru analiza operei «Iona»?",
+  "options": [
+   "Enumerarea datelor biografice ale autorului, fără legătură cu textul.",
+   "Povestirea integrală a conținutului, fără interpretare.",
+   "Înlocuirea analizei cu o opinie personală neargumentată.",
+   "Monolog, simboluri, spațiu alegoric, conflict interior, final deschis."
+  ],
+  "answer": 3,
+  "explanation": "Analiza trebuie să valorifice elementele indicate de construcția textului: Monolog, simboluri, spațiu alegoric, conflict interior, final deschis."
+ },
+ {
+  "work": "Iona",
+  "q": "Care variantă descrie corect relația dintre temă și secvențele analizate?",
+  "options": [
+   "Tema se menționează numai în concluzie.",
+   "Secvențele se rezumă, fără explicarea semnificației.",
+   "Tema și secvențele sunt componente independente.",
+   "Secvențele trebuie interpretate ca dovezi ale temei, nu doar repovestite."
+  ],
+  "answer": 3,
+  "explanation": "Într-un răspuns solid, fiecare secvență este contextualizată și legată explicit de temă."
+ },
+ {
+  "work": "Iona",
+  "q": "Ce formulare indică o analiză literară mai riguroasă?",
+  "options": [
+   "Folosirea unor aprecieri generale, fără argumente.",
+   "Identificarea procedeului, exemplificarea și explicarea efectului său.",
+   "Enumerarea procedeelor fără exemple.",
+   "Redarea pe larg a acțiunii."
+  ],
+  "answer": 1,
+  "explanation": "Analiza completă unește observația, exemplul și efectul produs în text."
+ },
+ {
+  "work": "Iona",
+  "q": "Care este cea mai potrivită funcție a concluziei?",
+  "options": [
+   "Repetă integral introducerea.",
+   "Prezintă biografia completă a autorului.",
+   "Sintetizează demonstrația și reconfirmă încadrarea, fără idei noi.",
+   "Introduce o secvență care nu a fost analizată."
+  ],
+  "answer": 2,
+  "explanation": "Concluzia închide demonstrația și recuperează ideile esențiale."
+ },
+ {
+  "work": "Iona",
+  "q": "Ce este esențial în analiza unei scene dramatice?",
+  "options": [
+   "Perspectiva unui narator omniscient.",
+   "Exclusiv descrierea cadrului natural.",
+   "Rezumatul biografiei dramaturgului.",
+   "Conflictul, replicile, didascaliile, relațiile dintre personaje și efectul scenic."
+  ],
+  "answer": 3,
+  "explanation": "Textul dramatic se construiește pentru reprezentare scenică, prin dialog, monolog și indicații scenice."
+ },
+ {
+  "work": "Iona",
+  "q": "Cum se caracterizează un personaj dramatic?",
+  "options": [
+   "Doar prin intervențiile naratorului.",
+   "Exclusiv prin portretul fizic.",
+   "Numai prin rezumatul acțiunii.",
+   "Prin replici, acțiuni, relații, nume, indicații scenice și reacțiile celorlalți."
+  ],
+  "answer": 3,
+  "explanation": "Personajul dramatic se definește în principal prin limbaj și comportament scenic."
+ },
+ {
+  "work": "Baltagul",
+  "q": "Care asociere este corectă pentru opera «Baltagul»?",
+  "options": [
+   "Mihail Sadoveanu — Roman tradițional",
+   "Ion Barbu — Roman realist balzacian",
+   "George Călinescu — Nuvelă romantică",
+   "Mihai Eminescu — Poem romantic"
+  ],
+  "answer": 0,
+  "explanation": "«Baltagul» este scrisă de Mihail Sadoveanu și se încadrează ca roman tradițional."
+ },
+ {
+  "work": "Baltagul",
+  "q": "Care formulare exprimă cel mai precis tema operei «Baltagul»?",
+  "options": [
+   "Setea de pământ și consecințele ei asupra destinului individual.",
+   "Satirizarea vieții politice și sociale.",
+   "Iubirea, gelozia și experiența războiului filtrate prin conștiința personajului.",
+   "Căutarea adevărului, dreptatea și ordinea tradițională."
+  ],
+  "answer": 3,
+  "explanation": "Tema centrală este: Căutarea adevărului, dreptatea și ordinea tradițională."
+ },
+ {
+  "work": "Baltagul",
+  "q": "Ce element de compoziție este relevant pentru analiza operei «Baltagul»?",
+  "options": [
+   "Povestirea integrală a conținutului, fără interpretare.",
+   "Înlocuirea analizei cu o opinie personală neargumentată.",
+   "Drum inițiatic, mit și realism, simbolul baltagului, structură detectivistă.",
+   "Enumerarea datelor biografice ale autorului, fără legătură cu textul."
+  ],
+  "answer": 2,
+  "explanation": "Analiza trebuie să valorifice elementele indicate de construcția textului: Drum inițiatic, mit și realism, simbolul baltagului, structură detectivistă."
+ },
+ {
+  "work": "Baltagul",
+  "q": "Care variantă descrie corect relația dintre temă și secvențele analizate?",
+  "options": [
+   "Tema se menționează numai în concluzie.",
+   "Secvențele se rezumă, fără explicarea semnificației.",
+   "Tema și secvențele sunt componente independente.",
+   "Secvențele trebuie interpretate ca dovezi ale temei, nu doar repovestite."
+  ],
+  "answer": 3,
+  "explanation": "Într-un răspuns solid, fiecare secvență este contextualizată și legată explicit de temă."
+ },
+ {
+  "work": "Baltagul",
+  "q": "Ce formulare indică o analiză literară mai riguroasă?",
+  "options": [
+   "Folosirea unor aprecieri generale, fără argumente.",
+   "Identificarea procedeului, exemplificarea și explicarea efectului său.",
+   "Enumerarea procedeelor fără exemple.",
+   "Redarea pe larg a acțiunii."
+  ],
+  "answer": 1,
+  "explanation": "Analiza completă unește observația, exemplul și efectul produs în text."
+ },
+ {
+  "work": "Baltagul",
+  "q": "Care este cea mai potrivită funcție a concluziei?",
+  "options": [
+   "Repetă integral introducerea.",
+   "Prezintă biografia completă a autorului.",
+   "Sintetizează demonstrația și reconfirmă încadrarea, fără idei noi.",
+   "Introduce o secvență care nu a fost analizată."
+  ],
+  "answer": 2,
+  "explanation": "Concluzia închide demonstrația și recuperează ideile esențiale."
+ },
+ {
+  "work": "Baltagul",
+  "q": "Cum trebuie analizată perspectiva narativă?",
+  "options": [
+   "Doar prin precizarea persoanei gramaticale.",
+   "Prin enumerarea personajelor.",
+   "Prin prezentarea exclusivă a biografiei autorului.",
+   "Prin tipul naratorului, focalizare, persoana relatării și efectul asupra construcției textului."
+  ],
+  "answer": 3,
+  "explanation": "Perspectiva narativă presupune mai mult decât persoana verbelor: include focalizarea și efectele relatării."
+ },
+ {
+  "work": "Baltagul",
+  "q": "Ce diferențiază analiza unei secvențe de un simplu rezumat?",
+  "options": [
+   "Folosirea unui număr mai mare de cuvinte.",
+   "Relatarea tuturor întâmplărilor în ordine.",
+   "Eliminarea oricărei referiri la temă.",
+   "Selectarea detaliilor semnificative și explicarea rolului lor în conflict și evoluția personajelor."
+  ],
+  "answer": 3,
+  "explanation": "Analiza urmărește semnificația și funcția secvenței în ansamblul operei."
+ },
+ {
+  "work": "Floare albastră",
+  "q": "Care asociere este corectă pentru opera «Floare albastră»?",
+  "options": [
+   "Lucian Blaga — Poem modernist",
+   "Ioan Slavici — Roman realist balzacian",
+   "Ion Pillat — Nuvelă romantică",
+   "Mihai Eminescu — Poezie romantică"
+  ],
+  "answer": 3,
+  "explanation": "«Floare albastră» este scrisă de Mihai Eminescu și se încadrează ca poezie romantică."
+ },
+ {
+  "work": "Floare albastră",
+  "q": "Care formulare exprimă cel mai precis tema operei «Floare albastră»?",
+  "options": [
+   "Iubirea ca experiență transformatoare a ființei și a percepției.",
+   "Maturizarea eroului prin probe și experiențe formative.",
+   "Iubirea și incompatibilitatea dintre ideal și existența concretă.",
+   "Creația ca moștenire spirituală și transformare artistică a suferinței."
+  ],
+  "answer": 2,
+  "explanation": "Tema centrală este: Iubirea și incompatibilitatea dintre ideal și existența concretă."
+ },
+ {
+  "work": "Floare albastră",
+  "q": "Ce element de compoziție este relevant pentru analiza operei «Floare albastră»?",
+  "options": [
+   "Înlocuirea analizei cu o opinie personală neargumentată.",
+   "Dialog liric, antiteză, motivul florii albastre, alternanța planurilor.",
+   "Enumerarea datelor biografice ale autorului, fără legătură cu textul.",
+   "Povestirea integrală a conținutului, fără interpretare."
+  ],
+  "answer": 1,
+  "explanation": "Analiza trebuie să valorifice elementele indicate de construcția textului: Dialog liric, antiteză, motivul florii albastre, alternanța planurilor."
+ },
+ {
+  "work": "Floare albastră",
+  "q": "Care variantă descrie corect relația dintre temă și secvențele analizate?",
+  "options": [
+   "Tema se menționează numai în concluzie.",
+   "Secvențele se rezumă, fără explicarea semnificației.",
+   "Tema și secvențele sunt componente independente.",
+   "Secvențele trebuie interpretate ca dovezi ale temei, nu doar repovestite."
+  ],
+  "answer": 3,
+  "explanation": "Într-un răspuns solid, fiecare secvență este contextualizată și legată explicit de temă."
+ },
+ {
+  "work": "Floare albastră",
+  "q": "Ce formulare indică o analiză literară mai riguroasă?",
+  "options": [
+   "Folosirea unor aprecieri generale, fără argumente.",
+   "Identificarea procedeului, exemplificarea și explicarea efectului său.",
+   "Enumerarea procedeelor fără exemple.",
+   "Redarea pe larg a acțiunii."
+  ],
+  "answer": 1,
+  "explanation": "Analiza completă unește observația, exemplul și efectul produs în text."
+ },
+ {
+  "work": "Floare albastră",
+  "q": "Care este cea mai potrivită funcție a concluziei?",
+  "options": [
+   "Repetă integral introducerea.",
+   "Prezintă biografia completă a autorului.",
+   "Sintetizează demonstrația și reconfirmă încadrarea, fără idei noi.",
+   "Introduce o secvență care nu a fost analizată."
+  ],
+  "answer": 2,
+  "explanation": "Concluzia închide demonstrația și recuperează ideile esențiale."
+ },
+ {
+  "work": "Floare albastră",
+  "q": "Care este centrul unei analize adecvate a textului liric?",
+  "options": [
+   "Caracterizarea unor personaje principale.",
+   "Identificarea unui narator omniscient.",
+   "Relația dintre ideile poetice și mijloacele artistice prin care sunt exprimate.",
+   "Rezumatul unei acțiuni."
+  ],
+  "answer": 2,
+  "explanation": "Poezia se analizează prin idei poetice, imagini, simboluri, figuri de stil și organizarea discursului liric."
+ },
+ {
+  "work": "Floare albastră",
+  "q": "Cum se comentează corect o imagine poetică?",
+  "options": [
+   "Se transcrie imaginea fără interpretare.",
+   "Se înlocuiește cu un rezumat.",
+   "Se analizează ca indicație scenică.",
+   "Se identifică imaginea, se explică procedeul și se leagă de ideea poetică."
+  ],
+  "answer": 3,
+  "explanation": "Comentariul trebuie să arate contribuția imaginii la sensul și atmosfera poeziei."
+ },
+ {
+  "work": "Aci sosi pe vremuri",
+  "q": "Care asociere este corectă pentru opera «Aci sosi pe vremuri»?",
+  "options": [
+   "George Călinescu — Poem modernist",
+   "Mihai Eminescu — Roman postbelic",
+   "Ion Pillat — Poezie tradiționalistă",
+   "Ion Barbu — Nuvelă psihologică realistă"
+  ],
+  "answer": 2,
+  "explanation": "«Aci sosi pe vremuri» este scrisă de Ion Pillat și se încadrează ca poezie tradiționalistă."
+ },
+ {
+  "work": "Aci sosi pe vremuri",
+  "q": "Care formulare exprimă cel mai precis tema operei «Aci sosi pe vremuri»?",
+  "options": [
+   "Moștenirea, familia și formarea tânărului într-o societate dominată de bani.",
+   "Timpul, iubirea și continuitatea generațiilor.",
+   "Iubirea, gelozia și experiența războiului filtrate prin conștiința personajului.",
+   "Maturizarea eroului prin probe și experiențe formative."
+  ],
+  "answer": 1,
+  "explanation": "Tema centrală este: Timpul, iubirea și continuitatea generațiilor."
+ },
+ {
+  "work": "Aci sosi pe vremuri",
+  "q": "Ce element de compoziție este relevant pentru analiza operei «Aci sosi pe vremuri»?",
+  "options": [
+   "Paralelism temporal, elemente tradiționale, clopotul ca simbol, simetrie.",
+   "Enumerarea datelor biografice ale autorului, fără legătură cu textul.",
+   "Povestirea integrală a conținutului, fără interpretare.",
+   "Înlocuirea analizei cu o opinie personală neargumentată."
+  ],
+  "answer": 0,
+  "explanation": "Analiza trebuie să valorifice elementele indicate de construcția textului: Paralelism temporal, elemente tradiționale, clopotul ca simbol, simetrie."
+ },
+ {
+  "work": "Aci sosi pe vremuri",
+  "q": "Care variantă descrie corect relația dintre temă și secvențele analizate?",
+  "options": [
+   "Tema se menționează numai în concluzie.",
+   "Secvențele se rezumă, fără explicarea semnificației.",
+   "Tema și secvențele sunt componente independente.",
+   "Secvențele trebuie interpretate ca dovezi ale temei, nu doar repovestite."
+  ],
+  "answer": 3,
+  "explanation": "Într-un răspuns solid, fiecare secvență este contextualizată și legată explicit de temă."
+ },
+ {
+  "work": "Aci sosi pe vremuri",
+  "q": "Ce formulare indică o analiză literară mai riguroasă?",
+  "options": [
+   "Folosirea unor aprecieri generale, fără argumente.",
+   "Identificarea procedeului, exemplificarea și explicarea efectului său.",
+   "Enumerarea procedeelor fără exemple.",
+   "Redarea pe larg a acțiunii."
+  ],
+  "answer": 1,
+  "explanation": "Analiza completă unește observația, exemplul și efectul produs în text."
+ },
+ {
+  "work": "Aci sosi pe vremuri",
+  "q": "Care este cea mai potrivită funcție a concluziei?",
+  "options": [
+   "Repetă integral introducerea.",
+   "Prezintă biografia completă a autorului.",
+   "Sintetizează demonstrația și reconfirmă încadrarea, fără idei noi.",
+   "Introduce o secvență care nu a fost analizată."
+  ],
+  "answer": 2,
+  "explanation": "Concluzia închide demonstrația și recuperează ideile esențiale."
+ },
+ {
+  "work": "Aci sosi pe vremuri",
+  "q": "Care este centrul unei analize adecvate a textului liric?",
+  "options": [
+   "Caracterizarea unor personaje principale.",
+   "Identificarea unui narator omniscient.",
+   "Relația dintre ideile poetice și mijloacele artistice prin care sunt exprimate.",
+   "Rezumatul unei acțiuni."
+  ],
+  "answer": 2,
+  "explanation": "Poezia se analizează prin idei poetice, imagini, simboluri, figuri de stil și organizarea discursului liric."
+ },
+ {
+  "work": "Aci sosi pe vremuri",
+  "q": "Cum se comentează corect o imagine poetică?",
+  "options": [
+   "Se transcrie imaginea fără interpretare.",
+   "Se înlocuiește cu un rezumat.",
+   "Se analizează ca indicație scenică.",
+   "Se identifică imaginea, se explică procedeul și se leagă de ideea poetică."
+  ],
+  "answer": 3,
+  "explanation": "Comentariul trebuie să arate contribuția imaginii la sensul și atmosfera poeziei."
+ },
+ {
+  "work": "Alexandru Lăpușneanul",
+  "q": "Care asociere este corectă pentru opera «Alexandru Lăpușneanul»?",
+  "options": [
+   "Costache Negruzzi — Nuvelă romantică",
+   "Camil Petrescu — Roman tradițional",
+   "Nichita Stănescu — Poem romantic",
+   "Mihai Eminescu — Comedie de moravuri"
+  ],
+  "answer": 0,
+  "explanation": "«Alexandru Lăpușneanul» este scrisă de Costache Negruzzi și se încadrează ca nuvelă romantică."
+ },
+ {
+  "work": "Alexandru Lăpușneanul",
+  "q": "Care formulare exprimă cel mai precis tema operei «Alexandru Lăpușneanul»?",
+  "options": [
+   "Iubirea imposibilă și întâlnirea dintre două culturi.",
+   "Iubirea, gelozia și experiența războiului filtrate prin conștiința personajului.",
+   "Căutarea adevărului, dreptatea și ordinea tradițională.",
+   "Lupta pentru putere și consecințele tiraniei."
+  ],
+  "answer": 3,
+  "explanation": "Tema centrală este: Lupta pentru putere și consecințele tiraniei."
+ },
+ {
+  "work": "Alexandru Lăpușneanul",
+  "q": "Ce element de compoziție este relevant pentru analiza operei «Alexandru Lăpușneanul»?",
+  "options": [
+   "Povestirea integrală a conținutului, fără interpretare.",
+   "Înlocuirea analizei cu o opinie personală neargumentată.",
+   "Patru capitole cu mottouri, antiteză, personaje excepționale, culoare de epocă.",
+   "Enumerarea datelor biografice ale autorului, fără legătură cu textul."
+  ],
+  "answer": 2,
+  "explanation": "Analiza trebuie să valorifice elementele indicate de construcția textului: Patru capitole cu mottouri, antiteză, personaje excepționale, culoare de epocă."
+ },
+ {
+  "work": "Alexandru Lăpușneanul",
+  "q": "Care variantă descrie corect relația dintre temă și secvențele analizate?",
+  "options": [
+   "Tema se menționează numai în concluzie.",
+   "Secvențele se rezumă, fără explicarea semnificației.",
+   "Tema și secvențele sunt componente independente.",
+   "Secvențele trebuie interpretate ca dovezi ale temei, nu doar repovestite."
+  ],
+  "answer": 3,
+  "explanation": "Într-un răspuns solid, fiecare secvență este contextualizată și legată explicit de temă."
+ },
+ {
+  "work": "Alexandru Lăpușneanul",
+  "q": "Ce formulare indică o analiză literară mai riguroasă?",
+  "options": [
+   "Folosirea unor aprecieri generale, fără argumente.",
+   "Identificarea procedeului, exemplificarea și explicarea efectului său.",
+   "Enumerarea procedeelor fără exemple.",
+   "Redarea pe larg a acțiunii."
+  ],
+  "answer": 1,
+  "explanation": "Analiza completă unește observația, exemplul și efectul produs în text."
+ },
+ {
+  "work": "Alexandru Lăpușneanul",
+  "q": "Care este cea mai potrivită funcție a concluziei?",
+  "options": [
+   "Repetă integral introducerea.",
+   "Prezintă biografia completă a autorului.",
+   "Sintetizează demonstrația și reconfirmă încadrarea, fără idei noi.",
+   "Introduce o secvență care nu a fost analizată."
+  ],
+  "answer": 2,
+  "explanation": "Concluzia închide demonstrația și recuperează ideile esențiale."
+ },
+ {
+  "work": "Alexandru Lăpușneanul",
+  "q": "Cum trebuie analizată perspectiva narativă?",
+  "options": [
+   "Doar prin precizarea persoanei gramaticale.",
+   "Prin enumerarea personajelor.",
+   "Prin prezentarea exclusivă a biografiei autorului.",
+   "Prin tipul naratorului, focalizare, persoana relatării și efectul asupra construcției textului."
+  ],
+  "answer": 3,
+  "explanation": "Perspectiva narativă presupune mai mult decât persoana verbelor: include focalizarea și efectele relatării."
+ },
+ {
+  "work": "Alexandru Lăpușneanul",
+  "q": "Ce diferențiază analiza unei secvențe de un simplu rezumat?",
+  "options": [
+   "Folosirea unui număr mai mare de cuvinte.",
+   "Relatarea tuturor întâmplărilor în ordine.",
+   "Eliminarea oricărei referiri la temă.",
+   "Selectarea detaliilor semnificative și explicarea rolului lor în conflict și evoluția personajelor."
+  ],
+  "answer": 3,
+  "explanation": "Analiza urmărește semnificația și funcția secvenței în ansamblul operei."
+ },
+ {
+  "work": "Maitreyi",
+  "q": "Care asociere este corectă pentru opera «Maitreyi»?",
+  "options": [
+   "Mircea Eliade — Roman al experienței",
+   "George Călinescu — Dramă modernă",
+   "Ion Barbu — Poem romantic",
+   "Marin Sorescu — Roman modern"
+  ],
+  "answer": 0,
+  "explanation": "«Maitreyi» este scrisă de Mircea Eliade și se încadrează ca roman al experienței."
+ },
+ {
+  "work": "Maitreyi",
+  "q": "Care formulare exprimă cel mai precis tema operei «Maitreyi»?",
+  "options": [
+   "Satirizarea vieții politice și sociale.",
+   "Moștenirea, familia și formarea tânărului într-o societate dominată de bani.",
+   "Incompatibilitatea dintre două moduri de existență și aspirația spre cunoaștere.",
+   "Iubirea imposibilă și întâlnirea dintre două culturi."
+  ],
+  "answer": 3,
+  "explanation": "Tema centrală este: Iubirea imposibilă și întâlnirea dintre două culturi."
+ },
+ {
+  "work": "Maitreyi",
+  "q": "Ce element de compoziție este relevant pentru analiza operei «Maitreyi»?",
+  "options": [
+   "Povestirea integrală a conținutului, fără interpretare.",
+   "Înlocuirea analizei cu o opinie personală neargumentată.",
+   "Perspectivă subiectivă, jurnal și rememorare, autenticitate, exotism.",
+   "Enumerarea datelor biografice ale autorului, fără legătură cu textul."
+  ],
+  "answer": 2,
+  "explanation": "Analiza trebuie să valorifice elementele indicate de construcția textului: Perspectivă subiectivă, jurnal și rememorare, autenticitate, exotism."
+ },
+ {
+  "work": "Maitreyi",
+  "q": "Care variantă descrie corect relația dintre temă și secvențele analizate?",
+  "options": [
+   "Tema se menționează numai în concluzie.",
+   "Secvențele se rezumă, fără explicarea semnificației.",
+   "Tema și secvențele sunt componente independente.",
+   "Secvențele trebuie interpretate ca dovezi ale temei, nu doar repovestite."
+  ],
+  "answer": 3,
+  "explanation": "Într-un răspuns solid, fiecare secvență este contextualizată și legată explicit de temă."
+ },
+ {
+  "work": "Maitreyi",
+  "q": "Ce formulare indică o analiză literară mai riguroasă?",
+  "options": [
+   "Folosirea unor aprecieri generale, fără argumente.",
+   "Identificarea procedeului, exemplificarea și explicarea efectului său.",
+   "Enumerarea procedeelor fără exemple.",
+   "Redarea pe larg a acțiunii."
+  ],
+  "answer": 1,
+  "explanation": "Analiza completă unește observația, exemplul și efectul produs în text."
+ },
+ {
+  "work": "Maitreyi",
+  "q": "Care este cea mai potrivită funcție a concluziei?",
+  "options": [
+   "Repetă integral introducerea.",
+   "Prezintă biografia completă a autorului.",
+   "Sintetizează demonstrația și reconfirmă încadrarea, fără idei noi.",
+   "Introduce o secvență care nu a fost analizată."
+  ],
+  "answer": 2,
+  "explanation": "Concluzia închide demonstrația și recuperează ideile esențiale."
+ },
+ {
+  "work": "Maitreyi",
+  "q": "Cum trebuie analizată perspectiva narativă?",
+  "options": [
+   "Doar prin precizarea persoanei gramaticale.",
+   "Prin enumerarea personajelor.",
+   "Prin prezentarea exclusivă a biografiei autorului.",
+   "Prin tipul naratorului, focalizare, persoana relatării și efectul asupra construcției textului."
+  ],
+  "answer": 3,
+  "explanation": "Perspectiva narativă presupune mai mult decât persoana verbelor: include focalizarea și efectele relatării."
+ },
+ {
+  "work": "Maitreyi",
+  "q": "Ce diferențiază analiza unei secvențe de un simplu rezumat?",
+  "options": [
+   "Folosirea unui număr mai mare de cuvinte.",
+   "Relatarea tuturor întâmplărilor în ordine.",
+   "Eliminarea oricărei referiri la temă.",
+   "Selectarea detaliilor semnificative și explicarea rolului lor în conflict și evoluția personajelor."
+  ],
+  "answer": 3,
+  "explanation": "Analiza urmărește semnificația și funcția secvenței în ansamblul operei."
+ },
+ {
+  "work": "Testament",
+  "q": "Ce semnificație are „cartea” în economia poeziei?",
+  "options": [
+   "Reprezintă numai averea materială a familiei.",
+   "Este un jurnal strict biografic.",
+   "Este moștenire spirituală și rezultat al transformării experienței colective în artă.",
+   "Este un obiect decorativ fără valoare simbolică."
+  ],
+  "answer": 2,
+  "explanation": "Cartea concentrează munca, suferința și memoria străbunilor, transfigurate estetic."
+ },
+ {
+  "work": "Testament",
+  "q": "Ce raport se stabilește între poet și străbuni?",
+  "options": [
+   "Poetul continuă și sublimează prin creație munca și suferința generațiilor anterioare.",
+   "Poetul respinge complet trecutul.",
+   "Relația este exclusiv genealogică, fără sens artistic.",
+   "Străbunii sunt prezentați ca adversari ai creației."
+  ],
+  "answer": 0,
+  "explanation": "Actul poetic transformă experiența colectivă într-o valoare transmisibilă."
+ },
+ {
+  "work": "Testament",
+  "q": "Cum funcționează estetica urâtului în „Testament”?",
+  "options": [
+   "Limbajul este simplificat pentru a evita metaforele.",
+   "Poetul refuză orice legătură cu realitatea socială.",
+   "Materia degradată și suferința sunt convertite în frumusețe și valoare artistică.",
+   "Frumosul este eliminat definitiv din poezie."
+  ],
+  "answer": 2,
+  "explanation": "Arghezi demonstrează capacitatea artei de a transfigura registre considerate nepoetice."
+ },
+ {
+  "work": "Testament",
+  "q": "Ce sugerează relația dintre „slova de foc” și „slova făurită”?",
+  "options": [
+   "Poezia este doar exercițiu tehnic.",
+   "Cele două sintagme exprimă opoziția dintre două personaje.",
+   "Creația rezultă din îmbinarea inspirației cu munca artistică.",
+   "Poezia este exclusiv inspirație spontană."
+  ],
+  "answer": 2,
+  "explanation": "Arta poetică argheziană unește harul și meșteșugul."
+ },
+ {
+  "work": "Eu nu strivesc corola de minuni a lumii",
+  "q": "Ce opoziție structurează discursul poetic?",
+  "options": [
+   "Opoziția dintre două personaje epice.",
+   "Opoziția dintre sat și oraș.",
+   "Opoziția dintre lumina eului poetic, care amplifică misterul, și lumina altora, care îl reduce.",
+   "Opoziția dintre trecut și prezent."
+  ],
+  "answer": 2,
+  "explanation": "Cele două tipuri de lumină exprimă două moduri distincte de cunoaștere."
+ },
+ {
+  "work": "Eu nu strivesc corola de minuni a lumii",
+  "q": "Ce semnifică metafora „corolei de minuni a lumii”?",
+  "options": [
+   "Un decor vegetal realist.",
+   "O simplă enumerare de obiecte.",
+   "Un spațiu social concret.",
+   "Totalitatea tainelor universului, percepute ca unitate armonioasă."
+  ],
+  "answer": 3,
+  "explanation": "Corola este metafora revelatorie centrală a misterului universal."
+ },
+ {
+  "work": "Eu nu strivesc corola de minuni a lumii",
+  "q": "De ce poate fi textul considerat artă poetică?",
+  "options": [
+   "Conține indicații pentru montarea scenică.",
+   "Definește concepția autorului despre cunoaștere, creație și rolul poetului.",
+   "Prezintă biografia completă a poetului.",
+   "Povestește o întâmplare cu final neașteptat."
+  ],
+  "answer": 1,
+  "explanation": "Poemul formulează programatic raportul creatorului cu misterul."
+ },
+ {
+  "work": "Eu nu strivesc corola de minuni a lumii",
+  "q": "Care este efectul enumerației „în flori, în ochi, pe buze ori morminte”?",
+  "options": [
+   "Extinde misterul asupra naturii, cunoașterii, iubirii și morții.",
+   "Limitează tema la lumea vegetală.",
+   "Introduce personaje într-o acțiune epică.",
+   "Marchează succesiunea actelor dramatice."
+  ],
+  "answer": 0,
+  "explanation": "Enumerația reunește marile domenii ale existenței asupra cărora se proiectează misterul."
+ },
+ {
+  "work": "Luceafărul",
+  "q": "Ce evidențiază refuzul Demiurgului de a-i oferi lui Hyperion condiția muritoare?",
+  "options": [
+   "Superioritatea iubirii terestre asupra cunoașterii.",
+   "Imposibilitatea anulării naturii geniale și apartenența lui Hyperion la ordinea absolutului.",
+   "Victoria lui Cătălin asupra universului cosmic.",
+   "Transformarea poemului într-o satiră socială."
+  ],
+  "answer": 1,
+  "explanation": "Demiurgul confirmă că Hyperion aparține unei ordini superioare, incompatibile cu existența limitată a oamenilor."
+ },
+ {
+  "work": "Luceafărul",
+  "q": "Cum contribuie finalul poemului la definirea condiției geniului?",
+  "options": [
+   "Arată integrarea deplină a geniului în lumea comună.",
+   "Anulează opoziția dintre planul cosmic și cel terestru.",
+   "Fixează izolarea lucidă a geniului, situat deasupra cercului îngust al lumii comune.",
+   "Transformă iubirea într-un conflict politic."
+  ],
+  "answer": 2,
+  "explanation": "Finalul sintetizează antiteza dintre eternitatea lucidă a geniului și fericirea limitată a omului comun."
+ },
+ {
+  "work": "Povestea lui Harap-Alb",
+  "q": "De ce este coborârea în fântână o secvență inițiatică?",
+  "options": [
+   "Pentru că eroul primește o avere.",
+   "Pentru că marchează pierderea identității inițiale și începutul unei existențe supuse probelor.",
+   "Pentru că Spânul devine ajutorul eroului.",
+   "Pentru că drumul se încheie în acel moment."
+  ],
+  "answer": 1,
+  "explanation": "Fântâna funcționează simbolic drept spațiu al morții și renașterii inițiatice."
+ },
+ {
+  "work": "Povestea lui Harap-Alb",
+  "q": "Ce demonstrează ajutorul oferit de personajele fabuloase?",
+  "options": [
+   "Eroul este complet pasiv și inutil.",
+   "Succesul inițierii depinde și de capacitatea eroului de a crea legături, de a fi milos și solidar.",
+   "Spânul este adevăratul protagonist.",
+   "Probele nu au nicio funcție formativă."
+  ],
+  "answer": 1,
+  "explanation": "Harap-Alb primește ajutor deoarece manifestă bunătate și solidaritate, calități esențiale în maturizarea sa."
+ },
+ {
+  "work": "Moara cu noroc",
+  "q": "Cum se modifică relația dintre Ghiță și familie sub influența lui Lică?",
+  "options": [
+   "Devine mai stabilă și mai sinceră.",
+   "Se degradează prin suspiciune, izolare și compromis moral.",
+   "Rămâne complet neschimbată.",
+   "Se transformă într-o relație comică."
+  ],
+  "answer": 1,
+  "explanation": "Apropierea de Lică îl înstrăinează pe Ghiță de Ana și distruge echilibrul familiei."
+ },
+ {
+  "work": "Moara cu noroc",
+  "q": "Ce rol are simetria dintre vorbele bătrânei din incipit și final?",
+  "options": [
+   "Produce exclusiv suspans.",
+   "Confirmă perspectiva moralizatoare asupra dorinței de îmbogățire și închide circular nuvela.",
+   "Elimină conflictul psihologic.",
+   "Transformă naratorul în personaj."
+  ],
+  "answer": 1,
+  "explanation": "Simetria susține construcția riguroasă și accentuează mesajul moral al nuvelei."
+ },
+ {
+  "work": "O scrisoare pierdută",
+  "q": "Ce tip de comic rezultă din contrastul dintre pretențiile personajelor și comportamentul lor real?",
+  "options": [
+   "Comic de caracter.",
+   "Comic fantastic.",
+   "Comic elegiac.",
+   "Comic mitologic."
+  ],
+  "answer": 0,
+  "explanation": "Personajele se autodefinesc prin defecte dominante, iar contrastul dintre aparență și esență generează comicul de caracter."
+ },
+ {
+  "work": "O scrisoare pierdută",
+  "q": "De ce finalul comediei nu rezolvă în mod real conflictul politic?",
+  "options": [
+   "Pentru că scrisoarea rămâne pierdută.",
+   "Pentru că mecanismul corupt continuă, iar împăcarea este doar una de conveniență.",
+   "Pentru că toate personajele părăsesc orașul.",
+   "Pentru că alegerile sunt anulate definitiv."
+  ],
+  "answer": 1,
+  "explanation": "Finalul restabilește aparența ordinii, nu moralitatea vieții politice, ceea ce accentuează satira."
+ },
+ {
+  "work": "Ion",
+  "q": "Cum funcționează cele două „glasuri” în evoluția protagonistului?",
+  "options": [
+   "Sunt două personaje secundare.",
+   "Exprimă tensiunea dintre obsesia pământului și nevoia de iubire.",
+   "Sunt două perspective narative independente.",
+   "Indică două epoci istorice."
+  ],
+  "answer": 1,
+  "explanation": "Structura romanului urmărește conflictul interior dintre dorința de posesie și impulsul afectiv."
+ },
+ {
+  "work": "Ion",
+  "q": "Ce efect produce circularitatea drumului din incipit și final?",
+  "options": [
+   "Sugerează că drama individuală este absorbită de continuitatea impersonală a lumii satului.",
+   "Arată că Ion revine la viață.",
+   "Transformă romanul într-un jurnal.",
+   "Anulează perspectiva realistă."
+  ],
+  "answer": 0,
+  "explanation": "Drumul închide simetric romanul și relativizează destinele individuale în raport cu viața colectivității."
+ },
+ {
+  "work": "Ultima noapte de dragoste, întâia noapte de război",
+  "q": "De ce perspectiva lui Ștefan Gheorghidiu este subiectivă?",
+  "options": [
+   "Naratorul cunoaște gândurile tuturor personajelor.",
+   "Evenimentele sunt filtrate prin conștiința, memoria și îndoielile personajului-narator.",
+   "Relatarea este realizată exclusiv prin dialog.",
+   "Romanul nu conține reflecții."
+  ],
+  "answer": 1,
+  "explanation": "Narațiunea la persoana I limitează informația la experiența și interpretarea protagonistului."
+ },
+ {
+  "work": "Ultima noapte de dragoste, întâia noapte de război",
+  "q": "Cum modifică experiența războiului drama erotică a protagonistului?",
+  "options": [
+   "O intensifică până la obsesie definitivă.",
+   "O relativizează, confruntând-o cu experiența-limită a morții și a absurdului.",
+   "O transformă într-o comedie.",
+   "Nu produce nicio schimbare."
+  ],
+  "answer": 1,
+  "explanation": "Frontul schimbă scara valorilor și face ca gelozia să-și piardă importanța absolută."
+ },
+ {
+  "work": "Enigma Otiliei",
+  "q": "Ce semnificație are titlul romanului în raport cu perspectiva lui Felix?",
+  "options": [
+   "Otilia este lipsită de identitate.",
+   "Caracterul ei rămâne greu de fixat deoarece este perceput diferit și filtrat prin conștiința lui Felix.",
+   "Titlul descrie o anchetă polițistă.",
+   "Otilia ascunde o crimă."
+  ],
+  "answer": 1,
+  "explanation": "„Enigma” exprimă imposibilitatea încadrării definitive a Otiliei într-o tipologie rigidă."
+ },
+ {
+  "work": "Enigma Otiliei",
+  "q": "Cum contribuie casa lui moș Costache la atmosfera și tema romanului?",
+  "options": [
+   "Este doar un decor neutru.",
+   "Dezordinea și degradarea ei reflectă universul familiei dominate de bani și moștenire.",
+   "Reprezintă exclusiv modernitatea arhitecturală.",
+   "Elimină dimensiunea realistă."
+  ],
+  "answer": 1,
+  "explanation": "Spațiul are funcție caracterizatoare și susține imaginea unei lumi degradate moral."
+ },
+ {
+  "work": "Moromeții",
+  "q": "Ce exprimă scena cinei în organizarea familiei Moromete?",
+  "options": [
+   "Armonia perfectă a tuturor membrilor.",
+   "Ierarhiile, tensiunile și distanțele dintre membrii familiei.",
+   "Exclusiv prosperitatea economică.",
+   "Absența autorității paterne."
+  ],
+  "answer": 1,
+  "explanation": "Așezarea personajelor și schimburile dintre ele anticipează destrămarea familiei."
+ },
+ {
+  "work": "Moromeții",
+  "q": "Cum trebuie interpretată afirmația despre timpul care „nu mai avea răbdare”?",
+  "options": [
+   "Ca simplă indicație meteorologică.",
+   "Ca semn al accelerării schimbărilor istorice și al destrămării unei lumi tradiționale.",
+   "Ca dovadă că acțiunea este fantastică.",
+   "Ca descriere a copilăriei lui Niculae."
+  ],
+  "answer": 1,
+  "explanation": "Formula finală marchează intrarea brutală a istoriei în existența satului tradițional."
+ },
+ {
+  "work": "Riga Crypto și lapona Enigel",
+  "q": "Ce tip de incompatibilitate exprimă relația dintre Crypto și Enigel?",
+  "options": [
+   "Una exclusiv socială.",
+   "Una între stagnare instinctuală și aspirația către cunoaștere și lumină.",
+   "Una dintre două familii rivale.",
+   "Una politică."
+  ],
+  "answer": 1,
+  "explanation": "Cele două personaje simbolice aparțin unor trepte existențiale incompatibile."
+ },
+ {
+  "work": "Riga Crypto și lapona Enigel",
+  "q": "Ce rol are motivul soarelui în alegerea laponei Enigel?",
+  "options": [
+   "Semnifică degradarea și somnul.",
+   "Reprezintă cunoașterea, spiritul și aspirația spre o formă superioară de existență.",
+   "Este doar un element de decor.",
+   "Anunță o schimbare de anotimp fără sens simbolic."
+  ],
+  "answer": 1,
+  "explanation": "Soarele este centrul valoric al traseului spiritual ales de Enigel."
+ },
+ {
+  "work": "Leoaică tânără, iubirea",
+  "q": "Ce sugerează apariția iubirii sub forma unei „leoaice tinere”?",
+  "options": [
+   "O experiență blândă și complet controlabilă.",
+   "Forța neașteptată, agresivă și transformatoare a sentimentului.",
+   "Un animal descris realist.",
+   "O alegorie politică."
+  ],
+  "answer": 1,
+  "explanation": "Metafora concretizează energia bruscă prin care iubirea invadează și schimbă ființa."
+ },
+ {
+  "work": "Leoaică tânără, iubirea",
+  "q": "Cum se modifică percepția spațiului după întâlnirea cu iubirea?",
+  "options": [
+   "Rămâne obiectivă și neschimbată.",
+   "Realitatea se reorganizează într-o viziune subiectivă, intensificată și circulară.",
+   "Dispare complet eul liric.",
+   "Devine exclusiv narativă."
+  ],
+  "answer": 1,
+  "explanation": "Iubirea schimbă raportarea eului la lume, iar imaginile cosmice exprimă această metamorfoză."
+ },
+ {
+  "work": "Iona",
+  "q": "Ce semnificație are succesiunea burților de pește?",
+  "options": [
+   "O aventură realistă pe mare.",
+   "Repetarea limitelor existențiale și iluzia eliberării dintr-un spațiu în altul.",
+   "O structură comică fără sens filosofic.",
+   "Drumul către o comunitate fericită."
+  ],
+  "answer": 1,
+  "explanation": "Fiecare ieșire aparentă conduce într-o nouă limită, susținând tema singurătății și a căutării sensului."
+ },
+ {
+  "work": "Iona",
+  "q": "Cum trebuie interpretat gestul final al lui Iona?",
+  "options": [
+   "Ca abandon lipsit de semnificație.",
+   "Ca încercare radicală de a găsi ieșirea în interiorul propriei ființe.",
+   "Ca victorie militară.",
+   "Ca revenire la viața domestică."
+  ],
+  "answer": 1,
+  "explanation": "Gestul final concentrează căutarea dramatică a libertății și a identității."
+ },
+ {
+  "work": "Baltagul",
+  "q": "Prin ce se evidențiază caracterul arhetipal al Vitoriei Lipan?",
+  "options": [
+   "Prin pasivitate și dependență.",
+   "Prin rolul de soție care reface ordinea, descoperă adevărul și îndeplinește ritualul.",
+   "Prin refuzul tradiției.",
+   "Prin lipsa intuiției."
+  ],
+  "answer": 1,
+  "explanation": "Vitoria reunește intuiția, credința și energia justițiară a unui personaj arhetipal."
+ },
+ {
+  "work": "Baltagul",
+  "q": "Ce funcție are călătoria Vitoriei în construcția romanului?",
+  "options": [
+   "Este doar o deplasare geografică.",
+   "Este simultan investigație, traseu inițiatic și refacere a ordinii morale.",
+   "Elimină conflictul.",
+   "Transformă romanul într-o comedie."
+  ],
+  "answer": 1,
+  "explanation": "Drumul organizează acțiunea și permite reconstruirea adevărului despre moartea lui Nechifor."
+ },
+ {
+  "work": "Floare albastră",
+  "q": "Ce exprimă opoziția dintre chemarea iubitei și meditația eului masculin?",
+  "options": [
+   "Armonia totală dintre cei doi.",
+   "Tensiunea romantică dintre iubirea concretă și aspirația către absolut.",
+   "Un conflict social realist.",
+   "O opoziție între două epoci politice."
+  ],
+  "answer": 1,
+  "explanation": "Poemul confruntă fericirea terestră posibilă cu tentația cunoașterii și a infinitului."
+ },
+ {
+  "work": "Floare albastră",
+  "q": "Cum contribuie epitetul din titlu la simbolistica poemului?",
+  "options": [
+   "Albastrul trimite la ideal, infinit și aspirație, iar floarea la iubirea concretă și fragilă.",
+   "Descrie doar culoarea unei plante.",
+   "Indică un obiect lipsit de valoare simbolică.",
+   "Anunță o temă istorică."
+  ],
+  "answer": 0,
+  "explanation": "Simbolul reunește două direcții ale poemului: idealul și iubirea terestră."
+ },
+ {
+  "work": "Aci sosi pe vremuri",
+  "q": "Ce efect produce paralelismul dintre povestea bunicilor și cea a nepoților?",
+  "options": [
+   "Elimină tema timpului.",
+   "Evidențiază repetabilitatea experienței iubirii și continuitatea generațiilor.",
+   "Transformă poemul într-o satiră.",
+   "Anulează rolul casei."
+  ],
+  "answer": 1,
+  "explanation": "Cele două planuri temporale se oglindesc și susțin ideea continuității afective."
+ },
+ {
+  "work": "Aci sosi pe vremuri",
+  "q": "Ce semnificație are casa amintirii în economia poemului?",
+  "options": [
+   "Este exclusiv un decor rural.",
+   "Devine spațiu al memoriei, al trecerii timpului și al legăturii dintre generații.",
+   "Este un simbol al conflictului politic.",
+   "Este lipsită de rol compozițional."
+  ],
+  "answer": 1,
+  "explanation": "Casa concentrează trecutul familial și permite suprapunerea planurilor temporale."
+ },
+ {
+  "work": "Alexandru Lăpușneanul",
+  "q": "Ce funcție au mottourile celor patru capitole?",
+  "options": [
+   "Rezumată biografia autorului.",
+   "Anticipează nucleele conflictuale și structurează evoluția acțiunii.",
+   "Descriu exclusiv peisajul.",
+   "Înlocuiesc dialogul."
+  ],
+  "answer": 1,
+  "explanation": "Mottourile concentrează replici memorabile și orientează lectura fiecărui capitol."
+ },
+ {
+  "work": "Alexandru Lăpușneanul",
+  "q": "Cum contribuie scena uciderii boierilor la caracterizarea domnitorului?",
+  "options": [
+   "Îl prezintă drept ezitant și vulnerabil.",
+   "Evidențiază cruzimea calculată, caracterul excepțional și exercitarea tiranică a puterii.",
+   "Îl transformă într-un personaj comic.",
+   "Demonstrează renunțarea lui la răzbunare."
+  ],
+  "answer": 1,
+  "explanation": "Scena este esențială pentru portretul romantic al tiranului dominat de dorința de răzbunare."
+ },
+ {
+  "work": "Maitreyi",
+  "q": "De ce jurnalul lui Allan nu garantează adevărul absolut al relatării?",
+  "options": [
+   "Pentru că nu este scris la persoana I.",
+   "Pentru că experiența este reinterpretată ulterior, iar perspectiva rămâne limitată și subiectivă.",
+   "Pentru că toate personajele îl completează.",
+   "Pentru că romanul are narator omniscient."
+  ],
+  "answer": 1,
+  "explanation": "Jurnalul și rememorarea pun în evidență distanța dintre experiență, memorie și interpretare."
+ },
+ {
+  "work": "Maitreyi",
+  "q": "Cum susține diferența culturală caracterul imposibil al iubirii?",
+  "options": [
+   "Cele două lumi au norme identice.",
+   "Codurile familiale, sociale și spirituale diferite produc neînțelegeri și rup relația.",
+   "Diferența culturală nu are nicio funcție.",
+   "Conflictul este exclusiv economic."
+  ],
+  "answer": 1,
+  "explanation": "Iubirea se construiește la întâlnirea a două culturi, dar diferențele de norme o fac imposibilă."
+ }
+]

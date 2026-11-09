@@ -1,0 +1,107 @@
+{
+ "Povestea lui Harap-Alb": [
+  [
+   "Ce funcție are Spânul în formarea eroului?",
+   [
+    "Este doar un personaj comic.",
+    "Este antagonist și fals inițiator.",
+    "Este mentor benefic.",
+    "Este naratorul întâmplărilor."
+   ],
+   1,
+   "Spânul provoacă probele care contribuie indirect la maturizarea protagonistului."
+  ],
+  [
+   "Ce exprimă titlul operei?",
+   [
+    "O identitate contradictorie.",
+    "O descriere fizică realistă.",
+    "Originea socială a autorului.",
+    "Un conflict istoric."
+   ],
+   0,
+   "Asocierea termenilor „harap” și „alb” are valoare oximoronică."
+  ],
+  [
+   "Ce element susține caracterul cult al basmului?",
+   [
+    "Autorul cunoscut și stilul individual.",
+    "Transmiterea exclusiv orală.",
+    "Absența fantasticului.",
+    "Lipsa formulelor narative."
+   ],
+   0,
+   "Basmul cult preia tipare populare, dar este creat și individualizat de un autor cunoscut."
+  ]
+ ],
+ "Moara cu noroc": [
+  [
+   "Care este conflictul interior central?",
+   [
+    "Dorința lui Ghiță de îmbogățire versus conștiința morală.",
+    "Conflictul dintre Ana și bătrână.",
+    "Dorința lui Lică de a deveni hangiu.",
+    "Rivalitatea dintre Pintea și Ana."
+   ],
+   0,
+   "Ghiță oscilează între familie și câștig, iar compromisurile îl degradează."
+  ],
+  [
+   "Ce rol are bătrâna în construcția nuvelei?",
+   [
+    "Narator-personaj.",
+    "Voce morală și element de simetrie.",
+    "Antagonist principal.",
+    "Personaj comic."
+   ],
+   1,
+   "Vorbele ei deschid și închid nuvela, oferind o perspectivă moralizatoare."
+  ],
+  [
+   "De ce este nuvela psihologică?",
+   [
+    "Prezintă exclusiv mediul rural.",
+    "Urmărește transformările interioare ale protagonistului.",
+    "Are multe personaje.",
+    "Respectă unitatea de timp."
+   ],
+   1,
+   "Accentul cade pe frământările, ezitările și degradarea interioară a lui Ghiță."
+  ]
+ ],
+ "Ion": [
+  [
+   "Ce semnifică sărutarea pământului?",
+   [
+    "Atașamentul estetic față de natură.",
+    "Posesia obsesivă și împlinirea temporară.",
+    "Renunțarea la avere.",
+    "Împăcarea cu George."
+   ],
+   1,
+   "Gestul are intensitate erotică și exprimă obsesia protagonistului pentru pământ."
+  ],
+  [
+   "Cum este organizat romanul?",
+   [
+    "În patru acte.",
+    "În două părți cu titluri simbolice.",
+    "Ca jurnal cronologic.",
+    "Într-un singur plan narativ."
+   ],
+   1,
+   "Cele două părți sunt „Glasul pământului” și „Glasul iubirii”."
+  ],
+  [
+   "Ce tip de narator predomină?",
+   [
+    "Narator-personaj.",
+    "Narator heterodiegetic omniscient.",
+    "Narator martor limitat.",
+    "Narator liric."
+   ],
+   1,
+   "Perspectiva obiectivă este specifică romanului realist."
+  ]
+ ]
+}

@@ -1,0 +1,200 @@
+[
+ {
+  "author": "Mihai Eminescu",
+  "title": "Luceafărul",
+  "type": "Poem romantic",
+  "genre": "Poezie",
+  "theme": "Condiția geniului și incompatibilitatea dintre absolut și lumea comună.",
+  "summary": "Poemul urmărește iubirea imposibilă dintre Hyperion și Cătălina. Aspirația fetei spre absolut este înlocuită de alegerea unei existențe omenești, iar Hyperion rămâne în sfera sa superioară.",
+  "characters": "Hyperion, Cătălina, Cătălin, Demiurgul",
+  "composition": "Patru tablouri, alternanța planului cosmic cu cel terestru, antiteză, motive romantice.",
+  "essay": "Încadrare în romantism; tema condiției geniului; două secvențe relevante; antiteza planurilor; limbajul și concluzia."
+ },
+ {
+  "author": "Ion Creangă",
+  "title": "Povestea lui Harap-Alb",
+  "type": "Basm cult",
+  "genre": "Proză",
+  "theme": "Maturizarea eroului prin probe și experiențe formative.",
+  "summary": "Fiul cel mic al craiului pleacă spre împărăția unchiului său, este înșelat de Spân și trece printr-o serie de probe. Cu ajutorul personajelor fabuloase, își recâștigă identitatea și devine împărat.",
+  "characters": "Harap-Alb, Spânul, Sfânta Duminică, fata Împăratului Roș",
+  "composition": "Drumul inițiatic, probe, formule specifice basmului, cifre și obiecte magice.",
+  "essay": "Caracterul cult al basmului; tema maturizării; două probe; relația Harap-Alb–Spân; oralitate și umor."
+ },
+ {
+  "author": "Ioan Slavici",
+  "title": "Moara cu noroc",
+  "type": "Nuvelă psihologică realistă",
+  "genre": "Proză",
+  "theme": "Degradarea morală provocată de dorința de îmbogățire.",
+  "summary": "Ghiță ia în arendă hanul Moara cu noroc, dar intră sub influența lui Lică Sămădăul. Compromisurile sale destramă familia și conduc la un final tragic.",
+  "characters": "Ghiță, Ana, Lică Sămădăul, bătrâna, Pintea",
+  "composition": "Conflict moral și exterior, perspectivă obiectivă, simetria incipit–final, analiză psihologică.",
+  "essay": "Încadrare realistă; tema banului; două secvențe ale degradării; conflictul; relația Ghiță–Lică."
+ },
+ {
+  "author": "I.L. Caragiale",
+  "title": "O scrisoare pierdută",
+  "type": "Comedie de moravuri",
+  "genre": "Dramaturgie",
+  "theme": "Satirizarea vieții politice și sociale.",
+  "summary": "O scrisoare compromițătoare devine instrument de șantaj în timpul alegerilor locale. Conflictul se rezolvă prin impunerea unui candidat trimis de la centru, iar adversarii se împacă oportunist.",
+  "characters": "Zoe, Tipătescu, Trahanache, Cațavencu, Dandanache",
+  "composition": "Comicul de situație, caracter, limbaj și nume; conflict politic; final circular și festiv.",
+  "essay": "Încadrare în comedie; tema; două scene comice; tipologii; mijloace de caracterizare și limbaj."
+ },
+ {
+  "author": "Liviu Rebreanu",
+  "title": "Ion",
+  "type": "Roman realist",
+  "genre": "Proză",
+  "theme": "Setea de pământ și consecințele ei asupra destinului individual.",
+  "summary": "Ion al Glanetașului o seduce pe Ana pentru a dobândi pământurile lui Vasile Baciu, deși o iubește pe Florica. Alegerea sa distruge mai multe destine și îl conduce la moarte.",
+  "characters": "Ion, Ana, Florica, Vasile Baciu, George Bulbuc",
+  "composition": "Două părți, Glasul pământului și Glasul iubirii; narator obiectiv; planuri sociale paralele.",
+  "essay": "Realismul; tema pământului; hora și sărutarea pământului; conflictul; caracterizarea lui Ion."
+ },
+ {
+  "author": "Camil Petrescu",
+  "title": "Ultima noapte de dragoste, întâia noapte de război",
+  "type": "Roman modern",
+  "genre": "Proză",
+  "theme": "Iubirea, gelozia și experiența războiului filtrate prin conștiința personajului.",
+  "summary": "Ștefan Gheorghidiu își analizează căsnicia cu Ela și participarea la Primul Război Mondial. Experiențele limitează certitudinile și schimbă raportarea sa la trecut.",
+  "characters": "Ștefan Gheorghidiu, Ela, Nae Gheorghidiu",
+  "composition": "Perspectivă subiectivă, persoana I, memorie involuntară, două experiențe fundamentale.",
+  "essay": "Modernism și autenticitate; tema; scena de la popotă și experiența frontului; perspectivă narativă."
+ },
+ {
+  "author": "George Călinescu",
+  "title": "Enigma Otiliei",
+  "type": "Roman realist balzacian",
+  "genre": "Proză",
+  "theme": "Moștenirea, familia și formarea tânărului într-o societate dominată de bani.",
+  "summary": "Felix Sima intră în casa lui Costache Giurgiuveanu și cunoaște lumea familiei Tulea. Destinul Otiliei rămâne ambiguu, iar Felix își urmează cariera.",
+  "characters": "Felix, Otilia, Costache, Aglae, Stănică Rațiu, Pascalopol",
+  "composition": "Tehnica balzaciană, descrierea mediului, tipologii, perspectivă obiectivă și elemente moderne.",
+  "essay": "Realism balzacian; tema moștenirii; două scene; tipologii; semnificația titlului."
+ },
+ {
+  "author": "Marin Preda",
+  "title": "Moromeții",
+  "type": "Roman postbelic",
+  "genre": "Proză",
+  "theme": "Destrămarea familiei tradiționale și criza lumii rurale.",
+  "summary": "Familia Moromete încearcă să își păstreze echilibrul într-o perioadă de schimbări sociale și economice. Autoritatea lui Ilie Moromete se erodează treptat.",
+  "characters": "Ilie Moromete, Catrina, Niculae, Paraschiv, Nilă, Achim",
+  "composition": "Timp răbdător/timp accelerat, scene colective, dialog, perspectivă realistă și ironică.",
+  "essay": "Roman postbelic; tema familiei; scena cinei și tăierea salcâmului; personajul Ilie Moromete."
+ },
+ {
+  "author": "Tudor Arghezi",
+  "title": "Testament",
+  "type": "Artă poetică modernă",
+  "genre": "Poezie",
+  "theme": "Creația ca moștenire spirituală și transformare artistică a suferinței.",
+  "summary": "Eul liric transmite urmașului o carte în care experiența generațiilor este transformată în valoare estetică. Poezia devine legătură între trecut și viitor.",
+  "characters": "Eul liric, fiul spiritual, străbunii",
+  "composition": "Metafora cărții, estetica urâtului, alternanța registrelor, limbaj expresiv.",
+  "essay": "Artă poetică modernă; rolul poetului; două imagini relevante; estetica urâtului; titlul."
+ },
+ {
+  "author": "Lucian Blaga",
+  "title": "Eu nu strivesc corola de minuni a lumii",
+  "type": "Artă poetică modernistă",
+  "genre": "Poezie",
+  "theme": "Cunoașterea poetică ce protejează și amplifică misterul.",
+  "summary": "Eul liric refuză cunoașterea rațională care reduce misterul și alege o lumină proprie, capabilă să sporească tainele lumii.",
+  "characters": "Eul liric și universul misterios",
+  "composition": "Metafora luminii, opoziția eu–alții, vers liber, imagini cosmice.",
+  "essay": "Modernism; cunoaștere luciferică; opoziția luminilor; metafora corolei; limbajul."
+ },
+ {
+  "author": "Ion Barbu",
+  "title": "Riga Crypto și lapona Enigel",
+  "type": "Poem modernist",
+  "genre": "Poezie",
+  "theme": "Incompatibilitatea dintre două moduri de existență și aspirația spre cunoaștere.",
+  "summary": "Crypto, regele-ciupercă, o cheamă pe Enigel în lumea sa umbroasă. Lapona alege soarele și cunoașterea, iar Crypto este pedepsit pentru aspirația nepotrivită.",
+  "characters": "Riga Crypto, lapona Enigel, menestrelul",
+  "composition": "Povestire în ramă, alegorie, simboluri, opoziția umbră–soare.",
+  "essay": "Modernism; baladă cultă; două secvențe ale dialogului; simbolurile; incompatibilitatea."
+ },
+ {
+  "author": "Nichita Stănescu",
+  "title": "Leoaică tânără, iubirea",
+  "type": "Poezie neomodernistă",
+  "genre": "Poezie",
+  "theme": "Iubirea ca experiență transformatoare a ființei și a percepției.",
+  "summary": "Întâlnirea cu iubirea modifică brusc raportarea eului liric la sine, timp și univers. Sentimentul este personificat prin imaginea unei leoaice.",
+  "characters": "Eul liric și iubirea personificată",
+  "composition": "Metaforă centrală, imagini surprinzătoare, dinamism, transformarea spațiului și timpului.",
+  "essay": "Neomodernism; metafora leoaicei; două secvențe ale transformării; limbaj și titlu."
+ },
+ {
+  "author": "Marin Sorescu",
+  "title": "Iona",
+  "type": "Dramă modernă",
+  "genre": "Dramaturgie",
+  "theme": "Singurătatea, căutarea libertății și a sensului existenței.",
+  "summary": "Pescarul Iona este înghițit de un pește și trece prin burțile succesive ale unor pești. Încercarea de ieșire devine o meditație asupra condiției umane.",
+  "characters": "Iona, pescarul I și pescarul II",
+  "composition": "Monolog, simboluri, spațiu alegoric, conflict interior, final deschis.",
+  "essay": "Dramă modernă; tema singurătății; două tablouri; simbolul burții peștelui; finalul."
+ },
+ {
+  "author": "Mihail Sadoveanu",
+  "title": "Baltagul",
+  "type": "Roman tradițional",
+  "genre": "Proză",
+  "theme": "Căutarea adevărului, dreptatea și ordinea tradițională.",
+  "summary": "Vitoria Lipan pornește pe urmele soțului dispărut, reconstituie traseul acestuia și descoperă crima. Ritualul funerar și pedepsirea vinovaților restabilesc ordinea.",
+  "characters": "Vitoria Lipan, Nechifor, Gheorghiță, Calistrat Bogza",
+  "composition": "Drum inițiatic, mit și realism, simbolul baltagului, structură detectivistă.",
+  "essay": "Tradiționalism; tema căutării; două etape ale drumului; Vitoria; mit și realitate."
+ },
+ {
+  "author": "Mihai Eminescu",
+  "title": "Floare albastră",
+  "type": "Poezie romantică",
+  "genre": "Poezie",
+  "theme": "Iubirea și incompatibilitatea dintre ideal și existența concretă.",
+  "summary": "Vocea feminină îl cheamă pe poet în lumea iubirii simple, însă acesta rămâne atras de idealuri înalte. Finalul exprimă regretul și efemeritatea fericirii.",
+  "characters": "Eul liric și iubita",
+  "composition": "Dialog liric, antiteză, motivul florii albastre, alternanța planurilor.",
+  "essay": "Romantism; tema iubirii; chemarea fetei și reflecția finală; motivul central."
+ },
+ {
+  "author": "Ion Pillat",
+  "title": "Aci sosi pe vremuri",
+  "type": "Poezie tradiționalistă",
+  "genre": "Poezie",
+  "theme": "Timpul, iubirea și continuitatea generațiilor.",
+  "summary": "Poezia suprapune povestea de iubire a bunicilor peste cea a cuplului contemporan. Repetiția gesturilor arată continuitatea vieții și trecerea timpului.",
+  "characters": "Bunicii, cuplul prezent, eul liric",
+  "composition": "Paralelism temporal, elemente tradiționale, clopotul ca simbol, simetrie.",
+  "essay": "Tradiționalism; tema timpului; două planuri temporale; simbolul clopotului; titlul."
+ },
+ {
+  "author": "Costache Negruzzi",
+  "title": "Alexandru Lăpușneanul",
+  "type": "Nuvelă romantică",
+  "genre": "Proză",
+  "theme": "Lupta pentru putere și consecințele tiraniei.",
+  "summary": "Domnitorul revine pe tron hotărât să se răzbune pe boieri. Cruzimea sa culminează cu uciderea celor patruzeci și șapte de boieri, iar finalul îi aduce moartea.",
+  "characters": "Lăpușneanul, Ruxanda, Moțoc, Spancioc, Stroici",
+  "composition": "Patru capitole cu mottouri, antiteză, personaje excepționale, culoare de epocă.",
+  "essay": "Romantism; tema puterii; scena piramidei și moartea; personajul principal; mottourile."
+ },
+ {
+  "author": "Mircea Eliade",
+  "title": "Maitreyi",
+  "type": "Roman al experienței",
+  "genre": "Proză",
+  "theme": "Iubirea imposibilă și întâlnirea dintre două culturi.",
+  "summary": "Allan, un tânăr european aflat în India, trăiește o iubire intensă cu Maitreyi. Diferențele culturale și opoziția familiei fac relația imposibilă.",
+  "characters": "Allan, Maitreyi, Narendra Sen",
+  "composition": "Perspectivă subiectivă, jurnal și rememorare, autenticitate, exotism.",
+  "essay": "Roman al experienței; tema iubirii; două episoade; perspectivă; conflict cultural."
+ }
+]
